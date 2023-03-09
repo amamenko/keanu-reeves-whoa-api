@@ -337,4 +337,30 @@ export const whoaArr = [
     audio:
       "https://assets.ctfassets.net/a6ek464hq2lg/4y9cXxSM5xfQeMF840E4FQ/d000b905499ee5d301adcb07befda667/The_Night_Before_11_Audio.mp3",
   },
+  {
+    movie: "The Prince of Pennsylvania",
+    year: 1988,
+    release_date: "1988-10-10",
+    director: "Ron Nyswaner",
+    character: "Rupert Marshetta",
+    movie_duration: "01:33:34",
+    timestamp: "00:33:24",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 1,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/1FbgSz3Xvf3JMgR2ilt5Kn/1ab8a8ffd53d69a1bb72f2835cf61f91/h8GSRQUFQe0vaJXQdhINaUCNsYi.jpeg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5MA9Xs5PaQqgKxXBNrMuEn/f0338026e893118ff02ac1baaed84877/The_Prince_of_Pennsylvania__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1DPFO6bXf9FJJrmVqfLNaE/5ad211e0198dac99fb7115f3479de9b9/The_Prince_of_Pennsylvania__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5oIdqEkf7FoG50KEVXdyzZ/3d5ec6cdea181153ee492f15d3b3c3d9/The_Prince_of_Pennsylvania__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2hiOvYgZHziL7zcTGA3cyj/1818b74b1220af06ffb3de5b30d2d87a/The_Prince_of_Pennsylvania__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/44dG7BbGcIiLOC4ocQdsY6/0d7368a63f9398c13a99462bafc4ed72/The_Prince_of_Pennsylvania_Audio.mp3",
+  },
 ];
