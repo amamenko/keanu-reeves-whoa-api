@@ -1039,4 +1039,238 @@ export const whoaArr = [
     audio:
       "https://assets.ctfassets.net/a6ek464hq2lg/2kAwVavfR7oAoG4LHT2MSv/039bc5f9759ff38874dbe2bf4ac8bbc0/Bill___Ted-s_Excellent_Adventure_26.mp3",
   },
+  {
+    movie: "I Love You to Death",
+    year: 1990,
+    release_date: "1990-04-06",
+    director: "Lawrence Kasdan",
+    character: "Marlon James",
+    movie_duration: "01:37:12",
+    timestamp: "01:03:44",
+    full_line: "Shit, man. Whoa.",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 1,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/25WuIKjcEhjFugyJR5e1g5/fa7f4b4f45dd61c92f821f6fcc0f0468/3cfOqxEEWObWFndBtN2n6blR1v2.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1I75rttX7AfLCxvGNWKBHb/c7cb45d894afc4ede4a53846bd0e3655/I_Love_You_to_Death__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1touWoOZ4WsXW5BCAjcuwb/ecd763295eff2013253e292f13a09316/I_Love_You_to_Death__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/78GSnVrCY1i88QLeLDAX3j/8ecc42518144d6585c792b18401b743e/I_Love_You_to_Death__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/CUqndlKjKsemscpqg6dq6/089b9eb7d8aff3876d7fcb2be5d2c156/I_Love_You_to_Death__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/5eTO1BvIz7gT8ADkX6L1Sm/5267b29008853e4d4c48f71471a6cc80/I_Love_You_to_Death.mp3",
+  },
+  {
+    movie: "Tune in Tomorrow",
+    year: 1990,
+    release_date: "1990-10-26",
+    director: "Jon Amiel",
+    character: "Martin Loader",
+    movie_duration: "01:43:06",
+    timestamp: "00:57:33",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 1,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/1dVBLdtTm2Nw3jY1SIcJCg/d989c108208b3d380ab05301f8d745fd/cMabi4aTi9mYs29tFS5Bh2DSEPi.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4eGeWeB9peD0vWUu3ooDKF/3c59bea68ec59680ff686fe417b84b2f/Tune_in_Tomorrow__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5puYYGyaQvx82NvL1J0bI4/02d1fe54d64d4eb7a8cd87faebc862ea/Tune_in_Tomorrow__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4uVVMVFxWMwa5YH2hJs6Q5/0a24cb18503e7e07bdaedc40c0e9ab47/Tune_in_Tomorrow__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5PDfCzq5phf447nUeX6JS3/ae09f9a6df5e90f9bcde9b45f36e4c9b/Tune_in_Tomorrow__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/b3kBupK8sAtJzWKTKvI0H/8214d062edcd39e036287978d32c0b59/Tune_in_Tomorrow.mp3",
+  },
+  {
+    movie: "Point Break",
+    year: 1991,
+    release_date: "1991-07-12",
+    director: "Kathryn Bigelow",
+    character: "Johnny Utah",
+    movie_duration: "02:01:59",
+    timestamp: "00:13:12",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 7,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7dhzg4s4A2BfBu5wX6vqq/a0e71b8334ade31b7e6a54eb1ffb5716/lyUDjRJTQl1yWECtVpZlB54UDFS.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5kKImhRFBW8IM2zckQBFTS/76743970035e3d9507601cac3fcf3b8a/Point_Break_1__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/pe3B4qawPhRn6zXDSVAYJ/d68278a6854dccebd99786d8569f76c6/Point_Break_1__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4SlqXhb4wRR1SnMKYV1nyq/fda9c22d508591f3ce41ba30baa73658/Point_Break_1__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4X0FuuAW7BxPGk3zJHbRnH/c3955796d36eb78529941082f021c608/Point_Break_1__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3GwAzS6ZQCBAdH71v6CwUY/11983eb16553deaf78dc32e6b3300b27/Point_Break_1.mp3",
+  },
+  {
+    movie: "Point Break",
+    year: 1991,
+    release_date: "1991-07-12",
+    director: "Kathryn Bigelow",
+    character: "Johnny Utah",
+    movie_duration: "02:01:59",
+    timestamp: "00:21:26",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 2,
+    total_whoas_in_movie: 7,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7dhzg4s4A2BfBu5wX6vqq/a0e71b8334ade31b7e6a54eb1ffb5716/lyUDjRJTQl1yWECtVpZlB54UDFS.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/O5BcIERZLQMsyzlf26smI/3cd157fd5131fedac4ef837a4b60928b/Point_Break_2__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3T1QrslwfXLwQoLhgu3z69/0d39bd25e6673eae604339cf1923d984/Point_Break_2__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2XTflm4RhN46MImthFisPL/28a218fe583197d7cb0f21e6e027f6b6/Point_Break_2__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/R95PIDVsIhQC5Q4GXfhwU/f68f8ba420ee34af5f7c2c89baf99169/Point_Break_2__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/1pxjijklMt0t9PrbJp3ilC/ce9d0c74cbe4cf6f9c417bfd8b3c1eaa/Point_Break_2.mp3",
+  },
+  {
+    movie: "Point Break",
+    year: 1991,
+    release_date: "1991-07-12",
+    director: "Kathryn Bigelow",
+    character: "Johnny Utah",
+    movie_duration: "02:01:59",
+    timestamp: "00:21:28",
+    full_line: "Whoa-ho!",
+    current_whoa_in_movie: 3,
+    total_whoas_in_movie: 7,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7dhzg4s4A2BfBu5wX6vqq/a0e71b8334ade31b7e6a54eb1ffb5716/lyUDjRJTQl1yWECtVpZlB54UDFS.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/MDhnbzgrUtvV6LnMS24GG/94f9bf746cfbb5c8ebde1b5e237ff95a/Point_Break_3__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2N4bQ4P6k5qh1eTze62RnF/3089d89b8ba74075f5bacc86be9eadc6/Point_Break_3__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/25QjadXmyM12KAhMHxelNY/ee99f1f06088fe27e0aee957f9b1e9a1/Point_Break_3__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/qpgUR8GioSoQJH8vfXjAI/89046862555903d946171883719242ee/Point_Break_3__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/66li7pegm9VptSbbCqgxKg/c7e3cdacb86c2d83f72c2a27239edad2/Point_Break_3.mp3",
+  },
+  {
+    movie: "Point Break",
+    year: 1991,
+    release_date: "1991-07-12",
+    director: "Kathryn Bigelow",
+    character: "Johnny Utah",
+    movie_duration: "02:01:59",
+    timestamp: "00:45:24",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 4,
+    total_whoas_in_movie: 7,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7dhzg4s4A2BfBu5wX6vqq/a0e71b8334ade31b7e6a54eb1ffb5716/lyUDjRJTQl1yWECtVpZlB54UDFS.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2Z0W84tMXoMEwO30sCund4/2ecb4f257b7104cbe2cdf720fb76f99a/Point_Break_4__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6UOQiM1LcN23BVgNNwTC5z/4f59c25ffcf33cafed8aaf48a7dbc3bb/Point_Break_4__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2blTwY8MoEuyWoiWafgl9H/a2ec25cb462c9b1148a1a97b0f9a5025/Point_Break_4__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3HQz0YSztAVoPM8Gqgqedy/57c4d0ea4536e1ec27c2b706769532e5/Point_Break_4__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2Zr7ghX7kIebW8IuOysEnq/0df6a5abe7a135d4f0d910b611ce8423/Point_Break_4.mp3",
+  },
+  {
+    movie: "Point Break",
+    year: 1991,
+    release_date: "1991-07-12",
+    director: "Kathryn Bigelow",
+    character: "Johnny Utah",
+    movie_duration: "02:01:59",
+    timestamp: "01:19:02",
+    full_line: "Shit! Whoa! Shit!",
+    current_whoa_in_movie: 5,
+    total_whoas_in_movie: 7,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7dhzg4s4A2BfBu5wX6vqq/a0e71b8334ade31b7e6a54eb1ffb5716/lyUDjRJTQl1yWECtVpZlB54UDFS.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7mGQ95v5tEYTWk2GlOXJ3K/76dd7278b93e3b18e16348cdecfccde7/Point_Break_5__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/hoo5jdpnmYxceZtDCr4y4/fe765ae94490f7fb06548ba346aa9738/Point_Break_5__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1pEXUwixpARuXj2HL1ta8L/98933167882892e52f724745ba05b02f/Point_Break_5__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/uIZCX2eb7PNebQZeeYiiE/714041d2b42825c2cd617d5191045dd0/Point_Break_5__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3qlp0IbIOEXBKOrs7mRZEQ/80b9ccbdf5dda9a14bb91744e2ab483a/Point_Break_5.mp3",
+  },
+  {
+    movie: "Point Break",
+    year: 1991,
+    release_date: "1991-07-12",
+    director: "Kathryn Bigelow",
+    character: "Johnny Utah",
+    movie_duration: "02:01:59",
+    timestamp: "01:19:11",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 6,
+    total_whoas_in_movie: 7,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7dhzg4s4A2BfBu5wX6vqq/a0e71b8334ade31b7e6a54eb1ffb5716/lyUDjRJTQl1yWECtVpZlB54UDFS.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5ZRBU6Zvuixj5RYf4rZkrA/231324ae436ce0aa4eb0959266755600/Point_Break_6__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4bdRWbAvvBWqTOXempT53j/3bd9173215e16bb987d3ae5d87b44632/Point_Break_6__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6qi0Quv7FwQrueRq16Upof/87b67ea86c1b740e8a843544d4b942b5/Point_Break_6__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1peIIF01B7KS6T4kr3XQGT/89379b3c9a21a19e6c59e60dcbec49a9/Point_Break_6__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2YjQxcrnpM51vhlTwqTjjq/e3a59d9ff7a44f285c81b6423bdeff25/Point_Break_6.mp3",
+  },
+  {
+    movie: "Point Break",
+    year: 1991,
+    release_date: "1991-07-12",
+    director: "Kathryn Bigelow",
+    character: "Johnny Utah",
+    movie_duration: "02:01:59",
+    timestamp: "01:20:11",
+    full_line: "Whoa! Yeah! Yeah! Yeah! Ha!",
+    current_whoa_in_movie: 7,
+    total_whoas_in_movie: 7,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7dhzg4s4A2BfBu5wX6vqq/a0e71b8334ade31b7e6a54eb1ffb5716/lyUDjRJTQl1yWECtVpZlB54UDFS.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4zwpPlKAKXjHTaLlRYPWyz/3610e3eb340e26ee2b1fa18f49f1c247/Point_Break_7__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4A1iGG7l5fpQUZLisgMS1f/7fec842c56bb8dd4c660a2a8f162f8aa/Point_Break_7__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5J6UTF4pZIRgyB8gS5QJP7/856dc8b78291066422b8df45144b7b40/Point_Break_7__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5ZIOAeMqezQmrKXXaNGloM/7f6c175f5881d5acab3f8966eb2f5db0/Point_Break_7__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2HIaOOAEQWzrhXkeun3iGi/ab812aac58e979e9f12730d8ec3c342b/Point_Break_7.mp3",
+  },
 ];
