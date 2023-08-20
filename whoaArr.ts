@@ -1273,4 +1273,732 @@ export const whoaArr = [
     audio:
       "https://assets.ctfassets.net/a6ek464hq2lg/2HIaOOAEQWzrhXkeun3iGi/ab812aac58e979e9f12730d8ec3c342b/Point_Break_7.mp3",
   },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:07:01",
+    full_line: "Whoa, we're total metalheads!",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/73VTc4yLMxLAwn8ObbTToB/2e7b6d323a965628558fdf2ffd230023/Bill___Ted-s_Bogus_Journey_1__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/77wGOMoNQ0GJ2P9WlY8jcV/7e690c75433022e929ce9db08d7a6c4d/Bill___Ted-s_Bogus_Journey_1__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7dqiU1MqY7R02iF7zQ0H1F/3ce4fd3560519796a60080b1ec0d1d27/Bill___Ted-s_Bogus_Journey_1__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4txgz9dYQq4vjT8srWyydx/90d478aeb2f5ea4bc3c5ca44646d3877/Bill___Ted-s_Bogus_Journey_1__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/mEzW1GRWRKF7d8Ciy6fNp/46fb22dc3c02db963c31fd8a6f91cc06/Bill___Ted-s_Bogus_Journey_1.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:12:03",
+    full_line: "Yeah. Whoa.",
+    current_whoa_in_movie: 2,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4o75i8CggliDS7FtTXu3a8/dc17f14adc023ce15bad0560f46244e1/Bill___Ted-s_Bogus_Journey_2__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6McYUQukol2msBZoeXlWlR/76f212ab1200d8fa866524d20e33e7af/Bill___Ted-s_Bogus_Journey_2__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6e41CkueCy9ookE5vxGM6x/0e9eb64876c8dcbbf5d2dabbd4884db6/Bill___Ted-s_Bogus_Journey_2__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/JEHLdg7k97vwLSBP4UhuU/2798d4c131a560223eb039a41bea392b/Bill___Ted-s_Bogus_Journey_2__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/6A1NmZVkqOj8ENjYOS2EcJ/293e0f7907ad6608ea5dd4078dbd3d25/Bill___Ted-s_Bogus_Journey_2.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:21:03",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 3,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4x1Ec40DFVXww711eWSK38/bc4e8dd8b98065f799823d948fd4efa4/Bill___Ted-s_Bogus_Journey_3__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7yt5qiuwqhXJGZEWhR7kQD/0f5e58765580427eb5fb6cb66898a978/Bill___Ted-s_Bogus_Journey_3__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2BWYnUXeKkMatwILknmdQV/af22c9101295b8e3dcdb9cc797127a3c/Bill___Ted-s_Bogus_Journey_3__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4BGlaCjQ45KnEOQDJZC5yj/7b3324f19a56387cbf66ed46ef8449db/Bill___Ted-s_Bogus_Journey_3__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/4aoA49HizOLCWSIDt9Aosn/ae0eec571c58bfb11dba37b5dbaffc5e/Bill___Ted-s_Bogus_Journey_3.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:23:29",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 4,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6WLN4UQMTYDZsN0F2SWAvn/e553026e510a6dbad1082f3c57b133de/Bill___Ted-s_Bogus_Journey_4__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5qtjpKQnn2W76sZqMefMTk/b1e047620209c5a9b49c60f72e37e0ba/Bill___Ted-s_Bogus_Journey_4__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7it2d49WLJLoM1WsKowI0Z/6565adda9f6443232251f3ac32be28f0/Bill___Ted-s_Bogus_Journey_4__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5svxpSZHq7mkudqWFwR9M9/f9a47e7ea43d8aed38de8ef4839acbbf/Bill___Ted-s_Bogus_Journey_4__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2vQilVoyJWAPdGZVYCKGWT/e0d3a26cf622a78a3354c35822223053/Bill___Ted-s_Bogus_Journey_4.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:24:34",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 5,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/XQNK1RxMhWyjnlqmvD06l/b31c3a5e7ca39001e42fe42e5b1f3b58/Bill___Ted-s_Bogus_Journey_5__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5wL0nhvEc4MesMf0jHZbnv/cd954b121c32b05b308a81d16578bf83/Bill___Ted-s_Bogus_Journey_5__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2Pnr1R571sehk90eUdXugj/4dd05a3c45ee5804592c02f72d1322e8/Bill___Ted-s_Bogus_Journey_5__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6GUdfn37UJ5GR678t7t4m5/b503b7e9b562e11780c25c170e1b77e3/Bill___Ted-s_Bogus_Journey_5__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/27ObRvBTAQh48dikL4a9ZM/ec4775824f78443a25632de2e38fd3c6/Bill___Ted-s_Bogus_Journey_5.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:26:43",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 6,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7dCO49BflwzLeHte0Roxk3/50af4db628cb6d5f3c1ab393c6ff1a4f/Bill___Ted-s_Bogus_Journey_6__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4W9JGW5SbX7IZjK1gV4mOp/7fd2a13b3f85eb293d83859e53322fa4/Bill___Ted-s_Bogus_Journey_6__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4NJiMjtPFhS6BvoNhN2s9v/bdab1a19508a6f16a1d31010c36c078c/Bill___Ted-s_Bogus_Journey_6__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/55tNzkccTazXsUzBWvf99Z/88038ad682dd7c92820145764a9c27a4/Bill___Ted-s_Bogus_Journey_6__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3fYPTOSnKR50OWPrw96mpc/cf90faef8af128b686bb0633baa14a18/Bill___Ted-s_Bogus_Journey_6.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:28:40",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 7,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7iHBl2FlyAFi7MONOq1pub/20f7aea27ed0335efe3c595a88264f2f/Bill___Ted-s_Bogus_Journey_7__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1gcqKJQirkUdB0adNKakOe/6b32d4dde437d74d701dfef797278497/Bill___Ted-s_Bogus_Journey_7__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6ojZGu4WrHjesuXLsZMXP6/d84fe0a3d137510d83744e51a89b7146/Bill___Ted-s_Bogus_Journey_7__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4rKOYt3XSIzYfL3D8Dr8v2/5c00b620e6fc2908e821bbcf2880ce27/Bill___Ted-s_Bogus_Journey_7__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/XFAe9qR9UkXYTNIpV2NLj/0877bddb104494a056cba92b5b547a82/Bill___Ted-s_Bogus_Journey_7.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:34:32",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 8,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7FUBgIEXVhV3P0QWeuUHwU/127299f764b6c35cf3176e9e4940b243/Bill___Ted-s_Bogus_Journey_8__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4nkDUT2jpNZ5pK8MnZSPtq/21f5efdf47240c37b05d9a7ecb108582/Bill___Ted-s_Bogus_Journey_8__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4oA89zGPAV9iz8RpC7rU2T/a915513c3aee3227bc11738fc96a1585/Bill___Ted-s_Bogus_Journey_8__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7EdZdTyjBqJFN6SAxtwjYA/67ae1edfa2758136b77bd9916710de44/Bill___Ted-s_Bogus_Journey_8__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/5wNw5dlra2WwgooVGiQrru/5be1c63bf57c1b4c435f9544a971d2e1/Bill___Ted-s_Bogus_Journey_8.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:34:36",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 9,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/35eh0waH1c98ShUrW2vD7k/ec0fa3e6148889d75febd1d6af2742a9/Bill___Ted-s_Bogus_Journey_9__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/12Sp4q0873fcQDgqrpdYB7/1835db1634b8f3f6414af76796a6dfd1/Bill___Ted-s_Bogus_Journey_9__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/44KTsI0mBsgpIrjJnx6dPy/080fb3fbe15d41a9d573be97398f0aa2/Bill___Ted-s_Bogus_Journey_9__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2fLBGQh4RfHIk9egK0EmTT/74c1398befc92c31c22c1a0bb11a9535/Bill___Ted-s_Bogus_Journey_9__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/5cQF7FyulLhPoICjUp2kEa/c8f5332a8512a96d1a0f15a852120f64/Bill___Ted-s_Bogus_Journey_9.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:37:19",
+    full_line: "Whoa, yeah! Good one!",
+    current_whoa_in_movie: 10,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2YQ7zZ6itNzwQVccvopjv6/4072e7ded1d30c4fa70cac9610274cc6/Bill___Ted-s_Bogus_Journey_10__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2te4FvDxpfJuhxUvICNfpw/c0159bb20ebaffb717a49cf4c6eb86c7/Bill___Ted-s_Bogus_Journey_10__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/29ZzpJzIwLqzS4K7saNvFi/696368cbcd1e9f1f5f69f55dfa5be1b2/Bill___Ted-s_Bogus_Journey_10__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4y6VtDanDGvQLEo6WIY4EW/2f9eefdc6a4afa1b75feac30bb18eb1b/Bill___Ted-s_Bogus_Journey_10__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3JVi0NuWPCjOqVUclScSEm/0d668d921f9664d55f68d8b4906ba4b1/Bill___Ted-s_Bogus_Journey_10.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:38:00",
+    full_line: "Whoa. Who's that?",
+    current_whoa_in_movie: 11,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3PnN3QEaqfTU1h6QPICcqz/7e370cb1b48fe34ea8239fcbaa6d731b/Bill___Ted-s_Bogus_Journey_11__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2rzIxJWibuHm8EkVUqWibH/d9e638d67a3d4df7b265de2137e12dc0/Bill___Ted-s_Bogus_Journey_11__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/0Vx2XpfJO4N1Lg1yK9f1n/30aaa97c2b6194ea03d0df73a14337e3/Bill___Ted-s_Bogus_Journey_11__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/qsMYbFJFMOQHnDz6AuwjA/8c3ffd38f255d847aecbc64e778411ea/Bill___Ted-s_Bogus_Journey_11__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/49SQ4GXjhZyChNR4jQJEUF/07ba4562ed6ef438750fe689e80d463d/Bill___Ted-s_Bogus_Journey_11.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:38:36",
+    full_line: "Whoa! Ugh!",
+    current_whoa_in_movie: 12,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7Ayzt7GraHlJyf0CKmOX26/cd0e6922a8890c3f43f49197d337015d/Bill___Ted-s_Bogus_Journey_12__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2O0P4gamwhzjK24WZq2rTQ/00f87c8fbabb18d6e1f367a90dd47bbb/Bill___Ted-s_Bogus_Journey_12__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3q3klBlHptBAQHeSNhVocy/9647d9140597b9dd6033a321197a7af1/Bill___Ted-s_Bogus_Journey_12__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1qeEVcKrtLQT74jqgY37eS/e605ef4617f724af750cb11e105d6924/Bill___Ted-s_Bogus_Journey_12__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/1qtUGOgthgHzAMEWUCSVlZ/5b248a8d75a3fcb3028ddc075c02d512/Bill___Ted-s_Bogus_Journey_12.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:38:44",
+    full_line: "Whoa! Excellent!",
+    current_whoa_in_movie: 13,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3Xkl4ck5S9Pm0a8V1ZLU3j/5c70c4b548b3a6cfbea894bd5bb543fb/Bill___Ted-s_Bogus_Journey_13__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3bLfbLbEckMyYZTo6KlDIn/22a7ef68d508aa151c9740ab2aca25be/Bill___Ted-s_Bogus_Journey_13__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/67RNUGEOBVJS3hQpxTsBLg/2c5a6c638d812a407b7cae1ab262f0c4/Bill___Ted-s_Bogus_Journey_13__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1IPJ1enCeAMFZuYQ2HGyKK/95924ac5bb7d1f97bf679fdce3f3b581/Bill___Ted-s_Bogus_Journey_13__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/4iZ2yhRiGcxsOebEjY9NlJ/e51dfe3554f123458654609dd20a53b6/Bill___Ted-s_Bogus_Journey_13.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:39:07",
+    full_line: "Whoa! Thanks, dude!",
+    current_whoa_in_movie: 14,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/13LGeZLnJtthImnlWpSUN8/81b1739e5bf2b9f5db1278af677e1a04/Bill___Ted-s_Bogus_Journey_14__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1hmzi6iMzhzwBmLwH4nCLV/bc9878ad1346f123923e7f91cbe1f515/Bill___Ted-s_Bogus_Journey_14__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2DVfw9CeswpVSWMyrIDxF3/62ba54b74b40712af87edf8c4727e65e/Bill___Ted-s_Bogus_Journey_14__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/14lPX1yuU7WrHtaHHkuewA/ac6eedd9fef58fae18166923280537be/Bill___Ted-s_Bogus_Journey_14__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/6H8fJ2vz7I5SN8EmnUkQZt/6e713b818da5978d02fcecde4ec8e306/Bill___Ted-s_Bogus_Journey_14.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:39:43",
+    full_line: "Whoa! Thanks, dude!",
+    current_whoa_in_movie: 15,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3K7oKVNIIBpFsGbVc1NTv1/4566afbcaed5c4d27b7899aa740a2142/Bill___Ted-s_Bogus_Journey_15__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5H9Nc75HeS0wQxt6KW4n8o/3af80c3ae3d1ad97722c86c638cb304c/Bill___Ted-s_Bogus_Journey_15__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2pkFZqYUCvxaGOzovEPFBC/3201effa831755c58e7e42b4da8bb341/Bill___Ted-s_Bogus_Journey_15__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/73HgPBQ92fObuiNM7dECuE/62c31e695e170bbd17dbc089831145cd/Bill___Ted-s_Bogus_Journey_15__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/K7P4NTzLLVWZ9tjWiAzr7/df12bb006480bb86e4e8b5f173f81469/Bill___Ted-s_Bogus_Journey_15.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:40:03",
+    full_line: "Whoa. Where are we?",
+    current_whoa_in_movie: 16,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5cChn7KvUVDHHlVbl8KMao/f8651ddb7d706afbe1a3ac1311a0e868/Bill___Ted-s_Bogus_Journey_16__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3Dnn9TiaQgm7sRJ687ASro/14ab59707fa475a10b7ce33d5cec2768/Bill___Ted-s_Bogus_Journey_16__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/64mOC3oALd5LvxaaCjHJGg/e6ae03f72ce09d28727211fb59322197/Bill___Ted-s_Bogus_Journey_16__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3uBLxVwzSonPgKI7fwp36t/5e65fae5a94ac40f9e8ca4f90015e2c6/Bill___Ted-s_Bogus_Journey_16__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/1aLk3arCi8F4DH6JzY3oBY/73bca1ecaa69274645b2c8968a55f975/Bill___Ted-s_Bogus_Journey_16.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:44:50",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 17,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3uwTu7o7c6ugpjibJfH9Ue/20ba0d4a982b2c1bb9b6517924a8a656/Bill___Ted-s_Bogus_Journey_17__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/QDqSs91jyVLe4ZrK2YtE8/a5629854fe1de44fcdcb7c814a9eda21/Bill___Ted-s_Bogus_Journey_17__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/D5GGgtloEFcxz4EA83EMU/84e9c5aef4bf5d1b70ab3d282d634866/Bill___Ted-s_Bogus_Journey_17__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1Vc18SZVIeYHpU0KnQA6qi/b5813b0e1b7a68609541fab1b17a37bd/Bill___Ted-s_Bogus_Journey_17__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/4GpBMbPuq90rTUFVttAz8w/fd90618df91eac1cf812b25cdff45c73/Bill___Ted-s_Bogus_Journey_17.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:45:10",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 18,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/m8z1Y1ovYR2hL1Imny6zN/86ab30123cd6265e87724429822bc8bc/Bill___Ted-s_Bogus_Journey_18__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1INqrMRK2nWFbnwIGXtdbL/b6d122b9db6799f91b7cd38e95f87fbe/Bill___Ted-s_Bogus_Journey_18__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2f8LNHeFzqmsNqg5GmfaEC/c48f0686b972e2977aab4e05d9d377e0/Bill___Ted-s_Bogus_Journey_18__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5OKNXtr3q7IuVJevbIDGkK/56520134a1604521b3cc4e60d6014a7f/Bill___Ted-s_Bogus_Journey_18__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/16gXrX3i3BZqhdtl0AfbZt/ccf9ab31d14dafca341b781f2bac3143/Bill___Ted-s_Bogus_Journey_18.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:46:03",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 19,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/54TMNkNEZWJXN9PzEKmiJZ/113b57b2bfb779446885cb7c5f680a38/Bill___Ted-s_Bogus_Journey_19__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/c83ZWoQHNjrhzAq0YTqYq/808984c7c0dfe7b11bea5a2d9bf8a207/Bill___Ted-s_Bogus_Journey_19__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7Ui80fmBxQ1nP4VrgCeLQ/99cc7b584894d504b615428a8a9ba260/Bill___Ted-s_Bogus_Journey_19__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2Gw1NZb2GlY5IgZAkur9gL/1754c5f2be430ccb26371831144f1240/Bill___Ted-s_Bogus_Journey_19__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3OXzXqp6TzYshUS6rXDyzY/b8942ab6fc4b6277e01057fa50c4ea5c/Bill___Ted-s_Bogus_Journey_19.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:50:26",
+    full_line: "Whoa. Whatever, dude.",
+    current_whoa_in_movie: 20,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/iTbvJU4X9o525wxlIGcWC/3b90be8b75400862c61dccad554e2326/Bill___Ted-s_Bogus_Journey_20__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/W6AYkzSzdqCvCrA71l408/290d71178189f5e77adeeb9bb44ffcdd/Bill___Ted-s_Bogus_Journey_20__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5bkNQ6eW8xxtqPZDE7hgys/423a8627ab401a24bd016d7c7b41d6f4/Bill___Ted-s_Bogus_Journey_20__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2yLZXMfDJXWPXCwA4xYDwF/3102641b4d26ab4e3ec00ebad43e74dd/Bill___Ted-s_Bogus_Journey_20__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/4tbuuJPgJvO37cx2L1WoX6/a8061625e0159567181688ac39f5e8d9/Bill___Ted-s_Bogus_Journey_20.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:51:37",
+    full_line: "Whoa. This is most atypical.",
+    current_whoa_in_movie: 21,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7qYYafnbseMsTRnSvujwDY/3efd42e89314c1e5e01be0b6d33cc109/Bill___Ted-s_Bogus_Journey_21__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3Ux69vuKlYoiAvgHJYnF9s/28fbfab0771866f0e2fabe0200379c22/Bill___Ted-s_Bogus_Journey_21__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5sWBPg38Uev9n9RGG5eNkA/cbc322cc3d23c680aa5d6467bb7fb20e/Bill___Ted-s_Bogus_Journey_21__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/zOZ6phI6ZXIlvwtaubVQL/3f62abdab9d7a997954a514193f0ffbc/Bill___Ted-s_Bogus_Journey_21__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/16NnZGgavHFs4HbG1FzS9Q/0b8b0effd46788f6f0583ed4d60963df/Bill___Ted-s_Bogus_Journey_21.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "00:57:02",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 22,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3PL6Gy3yu6yUB5M2hfCB0o/d468e92d0a0c90c3c07aacbd85b00096/Bill___Ted-s_Bogus_Journey_22__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/194NF17ssfhElM4iKByZPg/0d424dc3be169675805c411ff255cc32/Bill___Ted-s_Bogus_Journey_22__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4IFd3WN2HkOmYUzACAv0Bu/8bac607fd347dfb8f149bcb7967cc861/Bill___Ted-s_Bogus_Journey_22__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4Z650ZRD9L0PP2W8YcpYQx/47ef3bf15d9e5814cab21646155d80a5/Bill___Ted-s_Bogus_Journey_22__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/79MCq3OddsUmoWI8JjxGr8/c2e84f97bbe8cd39311afb35fa45d7dd/Bill___Ted-s_Bogus_Journey_22.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "01:01:59",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 23,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/LgR7CL22gco00O2Vi2t4x/6c614c7df51973b7d02888b542205f34/Bill___Ted-s_Bogus_Journey_23__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7smqs5tFRI6uVUGKY5whVQ/088162b76b5c0a0e057ab57bbeb17189/Bill___Ted-s_Bogus_Journey_23__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1lHeQjYaffgRoOtNsn9hKX/4f63a6c3479a931415bc308b93af34eb/Bill___Ted-s_Bogus_Journey_23__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7JPxwdNx9zwskIomy4XEqW/a4a5d6a8b81f982ee3777840a653b0c1/Bill___Ted-s_Bogus_Journey_23__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/W6UGM2dBmErGFjkwTc1nu/16000a32687d5f0e0d52f5c644c8c902/Bill___Ted-s_Bogus_Journey_23.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "01:05:10",
+    full_line: "Whoa! Evil breath!",
+    current_whoa_in_movie: 24,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6Mhk7IJ7y4pxRpRER1Dlpj/9d2efc3c4aafdbbef975ea8d62a42b92/Bill___Ted-s_Bogus_Journey_24__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2tddu2kzBhsRwCMy399TMg/34df3470e4a0490ab05557a174a94299/Bill___Ted-s_Bogus_Journey_24__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4QaeU05K2ktfTK7UDih7QG/a513db3a62c1e6e75ec1cb6108a8c505/Bill___Ted-s_Bogus_Journey_24__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4BZwxS9X6V3bl23JldbAYY/e6926143f38a35b199542f3730c2feec/Bill___Ted-s_Bogus_Journey_24__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/zntgVcfGaRXLCNoHJ9KUg/e7d2d9acfa021cf3898d3aecb68ebe02/Bill___Ted-s_Bogus_Journey_24.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "01:09:54",
+    full_line: "Whoa! That one's me, right?",
+    current_whoa_in_movie: 25,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4NRTJEdcbtVFxA7pjquICh/04cf9fb55862b1f243ec49e06c209518/Bill___Ted-s_Bogus_Journey_25__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6E0o2RakCFjhHJWEYqS5Lh/c9a2ecc09a1bde21893c1bc4323b4328/Bill___Ted-s_Bogus_Journey_25__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/140eI8htUDR61U1sAo24oN/fa2567b69970e12118de89c5c6b05d91/Bill___Ted-s_Bogus_Journey_25__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5LlTd5ZEF8AeSFekc0V6yE/f60d99b1b199ddf8f41a02e50561402f/Bill___Ted-s_Bogus_Journey_25__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/1ducQHR4xXvEP01U8W9Bnu/3f7c6b8026e1fea02e90ec98b77f89ef/Bill___Ted-s_Bogus_Journey_25.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "01:12:34",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 26,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7MgqC7ROo437wALftdNvZK/55023a3f6fe8807224aa5c1cc74277c6/Bill___Ted-s_Bogus_Journey_26__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6PuspZ2Mn4gEcgOtfZT5CQ/117b7ae400ef702b34c901638b272656/Bill___Ted-s_Bogus_Journey_26__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5MTAKCBxspDGesdQ05qCHv/162247c29feb56f472b92bb0cc8e1ff9/Bill___Ted-s_Bogus_Journey_26__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3jf82rSNeTiBK1zltn1bF9/4bead87f2062fd44d0628e803adabb55/Bill___Ted-s_Bogus_Journey_26__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3sJrPe8U6odEDWZr1UBbTQ/4d092c90c0eb1fe5df014fc0a251b70d/Bill___Ted-s_Bogus_Journey_26.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "01:15:29",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 27,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6DDaSolagrpe0YpHsVOMof/a3c66158db181e2dedd5c0a15f1f90c2/Bill___Ted-s_Bogus_Journey_27__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/39rOdV2JajxD6SjIoBtHml/f6b5c1be4dad6456664f4c6dded16480/Bill___Ted-s_Bogus_Journey_27__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/53rI5LFo4IZLJ0dChi1b2L/82660790517ee874bf224fce9023d74f/Bill___Ted-s_Bogus_Journey_27__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2ik8GJMangpVchuAPNXtiD/df984fc0690cb81e1551f061c0527c7d/Bill___Ted-s_Bogus_Journey_27__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2HjxAL6iSjQVmuxu5b3AYg/906bcd862a65a6b78368a411941dd5a4/Bill___Ted-s_Bogus_Journey_27.mp3",
+  },
+  {
+    movie: "Bill & Ted's Bogus Journey",
+    year: 1991,
+    release_date: "1991-07-19",
+    director: "Pete Hewitt",
+    character: "Ted Logan / Evil Ted",
+    movie_duration: "01:33:52",
+    timestamp: "01:18:02",
+    full_line: "Whoa! Yeah, like what?",
+    current_whoa_in_movie: 28,
+    total_whoas_in_movie: 28,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5ukLm1OEo0O7BLC8POcD3U/d1da73843e5698d39a6134164e1fbd2d/Bill___Ted-s_Bogus_Journey_28__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1AQxTx7kalJUXYtDOTyvcm/8aa7d755d8e46a3e5880ad304c5cd4b7/Bill___Ted-s_Bogus_Journey_28__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/39PzDxgOszRtcuoK6e1kQK/3bf0b2a7d3cd740399cbf655f91be4ed/Bill___Ted-s_Bogus_Journey_28__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2h9oSfj7IzADb6dr6jp0gq/fd3305909a6d1eedccf90800afbcb019/Bill___Ted-s_Bogus_Journey_28__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/7E33Lge8v5ENw1LCzA8AhV/5da391553ee69010ea8b1cf108fec5a1/Bill___Ted-s_Bogus_Journey_28.mp3",
+  },
 ];
