@@ -2157,4 +2157,290 @@ export const whoaArr = [
     audio:
       "https://assets.ctfassets.net/a6ek464hq2lg/47wxI3JoI470cvVGQDqbp8/a0205796eab42e57b7da806d4d92177c/The_Matrix_6.mp3",
   },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:01",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3iSexjNad3wSOsyHUX9U5/afdc1989b4b0776410b2284de9af236a/Sweet_November_1__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2RkKHIog16kmAPnSqS0lsw/caa75ae17f4aa0ec00b08ca0b14f2981/Sweet_November_1__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6RDSDCfIno9jD8tuLBpman/92a6a18089db0e1efb6fd5acb21619d4/Sweet_November_1__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/21VLnPt13PGtRwrMwRRD7V/fab71b5a4892fea5a9ee08a443a11650/Sweet_November_1__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3IMYdSMH4jOXjnD4ydYRkF/044e7230f1cc2fd43b51f997f1b9f23e/Sweet_November_1.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:01",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 2,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6v4qo5DIWWHivL8sHyOyWO/f169a67bca5d4c7f6e930dd0c0cbbc30/Sweet_November_2__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1iGu5d11Sn9ZLwahc0WglH/249fd397736eeec3561823799ee821cc/Sweet_November_2__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3mP8MucXKzcpz5IfCjqDdt/bd08445eaefeab1a4925eb260480004e/Sweet_November_2__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/52YKPsExTSm4gbteTPN5bm/e75a2e524aef71b4b5732eb3bdec6dbd/Sweet_November_2__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/7nqvRcgosv8t8W8wZLKQXt/e5f1fbf61130480a5829a40bfe8865be/Sweet_November_2.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:01",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 3,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7lkjfvJwpth2Mvk5DS40Gy/16c2d78fbb22b5b5ddb457b0051e52dd/Sweet_November_3__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5LzjV1IRh1tECkeywZ9Irg/1581322257b699b9e12d4c72a436b0ed/Sweet_November_3__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/26LUIsRogU9wECFfsgRjAW/965bd5c102892c194f3d58fd9801949e/Sweet_November_3__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4LFq46SRFJDhVrSHizMekE/46c1412ff9a177f950ce4b9a57d9436c/Sweet_November_3__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3X60Ku1eHCLFiAznuqtOZV/0b1e6606944d97eca9cae833099fb8fb/Sweet_November_3.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:01",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 4,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3BxsfKGbYywqlFcavMaZ8N/247a176a80c462b8f1beddea5cb3700f/Sweet_November_4__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/51vQSfs0mgc2ZFvCTyOj5w/fb5586607a01f9197ae133ce38c5e2d4/Sweet_November_4__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7v5hBJqC38FxlBn705w1KA/f0184422cfd9435c8899c6e867931cff/Sweet_November_4__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2kU23aLOWRn5smlPLuUJkd/7b5e1b0ffe6774412525d4795b5ce067/Sweet_November_4__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/45J3u5mQdYMLFnrFr5tJzT/2a0032a3accb04335778d4e72b5180eb/Sweet_November_4.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:01",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 5,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/FFPkoo6gzwSKT78wh409y/f90e09222f8cd4b80c3a3420d4a0b7db/Sweet_November_5__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5YMAONn3mojmShEBGDhEg5/fb4813bd0311f2912af945e149cb2035/Sweet_November_5__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2CbMWPNlgH0DdbvK6RVU8k/2239422986a4bb8f4804d5a43f45d4c8/Sweet_November_5__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7eKlOfGGpMqEJfU9aDL21k/92b15a61160aed6525a85f7742e7023c/Sweet_November_5__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/5MbLcWDR394OayjS6ErKHt/a1e8f69ecb5e63da898c58c34cba22e6/Sweet_November_5.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:02",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 6,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5CGLJBEFLGQCpAazOEwlpR/a68a9cb7e9de268d84b6e7ac55132962/Sweet_November_6__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/UtViG0xnjYVJ2bZQ5kWy0/4f0a088c63c404e9e0bed5cbdf73c373/Sweet_November_6__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2gbvLCv3JytKWNnQP343bR/bb63ed79874a0666ca03eede261deb5d/Sweet_November_6__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2rpCltbMKbDSpaAnyRNFxK/33867ad609af99c842c1395be5bc606d/Sweet_November_6__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2Ep02UJPRE6Mk0Ne8ib1ZO/95eb77a53f23429742883b02f34157eb/Sweet_November_6.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:02",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 7,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5ywKmkSjP4yQ3T5guo6qkx/e54bfe9d7852868241c452d71962cfc0/Sweet_November_7__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7r3TE9S4NQEh04vLywUv5Z/ad3ea449572b4cfeb0f9199a056bddf6/Sweet_November_7__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4bvgXDMN08oDwrUDAFoZ0G/40461b1275af13e81f85689128d056a1/Sweet_November_7__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7fj6L86yu60Jw8c4OJ8dYG/40b114e11334d4159d05782ed85cc917/Sweet_November_7__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/4g2HuLvNSakM9NA3HKkr81/de319d6d3b63bc92a3ee257e39ceb78e/Sweet_November_7.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:02",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 8,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4gYzJcLmbSw0tevcd3uWto/98689e90a7d35ba5be9b0d3516f25ee6/Sweet_November_8__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5HCJFsIIeCHXmXR9D0uHXI/f6366571e825ac41328fb0d815186e60/Sweet_November_8__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1YE7rP8KvAX5UKASs2gw1H/1d4c7c474415f65b5a4eae354246a088/Sweet_November_8__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4Hg1JExJ1HT3lqkX3esFmN/1d6f3c3081af451194d5bec78b7ef3f7/Sweet_November_8__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/1tae0ujGUTqhEmGDVHd8iF/21ce56f3589fd45a183481d1093fa8df/Sweet_November_8.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:02",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 9,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/BIBL8k5QG1yhAAOzOcua3/4971e1c9d763c69b7ea734a73dff1e4d/Sweet_November_9__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2UIVUwJcI09XXfGyloUhXM/965af49aa0018e6803ecbc24702b9312/Sweet_November_9__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6RPb3In5XEm4TaaYmZye6u/1b2c88cccd353167e713d5b9bcea7b38/Sweet_November_9__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/42xoDAFrZbYrmKUyKvxHLZ/d627d79fe414c2fd4e88c3cd859195ac/Sweet_November_9__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3FkiagfP1hHXSW32BTtqOs/8ab435fe4ed5ead4a64fda0193e60f17/Sweet_November_9.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:03",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 10,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4i8vLn3y6MMRWaIeFaXWgP/7fce104dc07bd4a4169b610e753319b1/Sweet_November_10__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1qoAqJtby2ttqZQyZtbQRV/81972a7ac814fcb63370a65938e3419e/Sweet_November_10__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/qwoNMdSFOOGDdpP9nZuFh/fd7411003c6a940e5a88648682672dac/Sweet_November_10__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3GqUIzBonLOhdXHwWSddKH/edde866b5659dfb48174574424865204/Sweet_November_10__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/5oLt7hYZLs48TMQTga1PaU/8707b941dca3c3e1e52037542a84d6c4/Sweet_November_10.mp3",
+  },
+  {
+    movie: "Sweet November",
+    year: 2001,
+    release_date: "2001-02-16",
+    director: "Pat O'Connor",
+    character: "Nelson Moss",
+    movie_duration: "02:00:21",
+    timestamp: "00:18:03",
+    full_line: "Whoa. Hold on.",
+    current_whoa_in_movie: 11,
+    total_whoas_in_movie: 11,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7b1Wg4U9L92CqCiukisvFq/bc62719d9bc4290d2963f0a5f2459092/Sweet_November_11__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4SVG3NO3wq0H8uFXHFPpBF/bb03167bc74726b9a5984369e13f4355/Sweet_November_11__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/DX6IxgdikYFekiLRBH7Kq/65301a0b6938313c409948118583d805/Sweet_November_11__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6QI9ROqhwioxWFnYReSm0P/1b003381a033f0a4303804c4a52001c1/Sweet_November_11__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2twcJjepSSHUeGgxD8DIkf/4f3490624016d1b8d30ba9aee532c483/Sweet_November_11.mp3",
+  },
 ];
