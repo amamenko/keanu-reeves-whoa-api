@@ -2766,4 +2766,134 @@ export const whoaArr = [
     audio:
       "https://assets.ctfassets.net/a6ek464hq2lg/5Ua36Zi0g293V5irSS42PC/d4598d9e6cf4000e49d65b8c0d30df8c/Knock_Knock_12.mp3",
   },
+  {
+    movie: "The Neon Demon",
+    year: 2016,
+    release_date: "2016-06-24",
+    director: "Nicolas Winding Refn",
+    character: "Hank",
+    movie_duration: "01:57:42",
+    timestamp: "00:28:26",
+    full_line: "Whoa, whoa, whoa, whoa, whoa. Relax, okay?",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/qmEjEprSPXSYJrTprYyRk/f7a360bd8098ed2edc5e0ccea120ea0f/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1PMsv4vNCfxp88tGIDPG3T/0a7a4fe80b5a9e6241bfa3ddbafc1ca9/The_Neon_Demon_1__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7eEny4iIFS4UqcUJ02Hoxf/e6803b07abf2ea4cb64bdff8dbe1297a/The_Neon_Demon_1__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1VgyRvvCms6bWAC1DVqUIE/70a8afb8232ac337198af66f46208c7a/The_Neon_Demon_1__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5bSPlgkrNV37d1siFjJvPf/b240a6e48f81880beb17b288ed2ddf4c/The_Neon_Demon_1__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/DtYXDK11l8bUHWWhq4P20/aec1c1061c25eb848eebb2e85b265f56/The_Neon_Demon_1.mp3",
+  },
+  {
+    movie: "The Neon Demon",
+    year: 2016,
+    release_date: "2016-06-24",
+    director: "Nicolas Winding Refn",
+    character: "Hank",
+    movie_duration: "01:57:42",
+    timestamp: "00:28:26",
+    full_line: "Whoa, whoa, whoa, whoa, whoa. Relax, okay?",
+    current_whoa_in_movie: 2,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/qmEjEprSPXSYJrTprYyRk/f7a360bd8098ed2edc5e0ccea120ea0f/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3KMhnYnvOY6A9LTcg6tqDO/58a54c13b925671bbab6abea5d808e90/The_Neon_Demon_2__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/rCopl585zzC0j5p3VcIUI/5e1f8719f350895bcde424fe178748d3/The_Neon_Demon_2__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2yA0s168s9uB2oKiWCZOtM/59a8762b81273e49a80da74d33287c34/The_Neon_Demon_2__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5rJDyr321ixoxXBE6OiFEi/2e3095d232cb29dfac6f761cf9296e21/The_Neon_Demon_2__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/3uVB3g4DXB4fb9AvG26j5b/2f7a84ebec0402fb25989290e2fd5e94/The_Neon_Demon_2.mp3",
+  },
+  {
+    movie: "The Neon Demon",
+    year: 2016,
+    release_date: "2016-06-24",
+    director: "Nicolas Winding Refn",
+    character: "Hank",
+    movie_duration: "01:57:42",
+    timestamp: "00:28:26",
+    full_line: "Whoa, whoa, whoa, whoa, whoa. Relax, okay?",
+    current_whoa_in_movie: 3,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/qmEjEprSPXSYJrTprYyRk/f7a360bd8098ed2edc5e0ccea120ea0f/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/37a3LBU2dj6ebxEeiR9r7t/8e8a9cdd33ea39c6f63f3aa4fb41e931/The_Neon_Demon_3__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4PCCf3VobbxhMACXXJIYu8/283e3cf63f1661f764cabe34779a1d62/The_Neon_Demon_3__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1B8gXM5e8xo6GbgGojjck3/ce5363f45ae9b9592e9995696f10195d/The_Neon_Demon_3__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4Zy48i3fBXPSD0F43TDLXi/ab89427e04856b4fb3571e84d75173eb/The_Neon_Demon_3__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/45CP8HHowjkotZ1Po5yFsI/a1069c48a84a3d6076c3f0657f9534a2/The_Neon_Demon_3.mp3",
+  },
+  {
+    movie: "The Neon Demon",
+    year: 2016,
+    release_date: "2016-06-24",
+    director: "Nicolas Winding Refn",
+    character: "Hank",
+    movie_duration: "01:57:42",
+    timestamp: "00:28:26",
+    full_line: "Whoa, whoa, whoa, whoa, whoa. Relax, okay?",
+    current_whoa_in_movie: 4,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/qmEjEprSPXSYJrTprYyRk/f7a360bd8098ed2edc5e0ccea120ea0f/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/imRl6aR1rmfu74OhFSKRz/1ad1c51d6005703118e576037eeb6c77/The_Neon_Demon_4__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3tCS6KqSkBUOoCQHbyKj2T/673e4582fa8f3e71fd3a07b15e74e275/The_Neon_Demon_4__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/sB0YUv4tI76IfaGQogZn9/5243e549c4bd6fc77c5c627a6ce6cd3f/The_Neon_Demon_4__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1DdzjIaTclliRCDLwVJ0FU/c1c109c7eb2ce78e06f8a546f4ec4ab5/The_Neon_Demon_4__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/6cZRp9vM62aYwBUe80uKY9/44fb06c1d801b580ad114c8a9310d17c/The_Neon_Demon_4.mp3",
+  },
+  {
+    movie: "The Neon Demon",
+    year: 2016,
+    release_date: "2016-06-24",
+    director: "Nicolas Winding Refn",
+    character: "Hank",
+    movie_duration: "01:57:42",
+    timestamp: "00:28:26",
+    full_line: "Whoa, whoa, whoa, whoa, whoa. Relax, okay?",
+    current_whoa_in_movie: 5,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/qmEjEprSPXSYJrTprYyRk/f7a360bd8098ed2edc5e0ccea120ea0f/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7gCDhHznDKD4RUdJVxxhSi/532eb770a562c8a43027abc7da5317a4/The_Neon_Demon_5__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4isJTu1lKVJnxNeRSRIt5u/6aff7dd74689272a21bf13da4a5a59d5/The_Neon_Demon_5__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5Bpup5P6pZekXxF6SvDj3D/cb259443e45a1bc26b59d15508ab7495/The_Neon_Demon_5__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/213UOagw94ft5FFOjcAYx7/c6f9926e36fa533bc904fa1657bbdc02/The_Neon_Demon_5__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/NTkUo2U7vGVJttXUSAIx2/14710627a417e8a2147a30c9175c5429/The_Neon_Demon_5.mp3",
+  },
 ];
