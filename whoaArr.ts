@@ -2896,4 +2896,56 @@ export const whoaArr = [
     audio:
       "https://assets.ctfassets.net/a6ek464hq2lg/NTkUo2U7vGVJttXUSAIx2/14710627a417e8a2147a30c9175c5429/The_Neon_Demon_5.mp3",
   },
+  {
+    movie: "Toy Story 4",
+    year: 2019,
+    release_date: "2019-06-21",
+    director: "Josh Cooley",
+    character: "Duke Caboom",
+    movie_duration: "01:39:00",
+    timestamp: "01:31:41",
+    full_line: "Do you really have laser eyes? Whoa.",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 1,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/2vGicbmdunfDQFkeJ33DM0/379611324b0e481f7f51746160c8a29d/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/72ilpFrTMUlrHcAUyphYSl/ea87ef11f59d3a366ee85bbb9b1a01a2/Toy_Story_4__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/55DCQZ6062PCZyf5XfR2vB/e01c80647904b76a0398f78b33fa8048/Toy_Story_4__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5R5vgxH2aty8el0WRvAQgQ/64cec3a489400bb29931ce2a73189e65/Toy_Story_4__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1FR3R2Bs9syUwwC6AseM4A/580a38c7a6c9c07773142ec74def2bf4/Toy_Story_4__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2X5yzYDx4Vl339AjjSW5tl/0d0ca75be3e4244278b8124f0d305410/Toy_Story_4.mp3",
+  },
+  {
+    movie: "The Matrix Resurrections",
+    year: 2021,
+    release_date: "2021-12-22",
+    director: "Lana Wachowski",
+    character: "Thomas A. Anderson / Neo",
+    movie_duration: "02:27:54",
+    timestamp: "02:14:03",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 1,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/2bJedip16WkszPFiJVv8CT/6b241c3d4c67cf0bbec650e11dfedc9e/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6HRZxjIoH9nt0mhPKr8OJ0/aa28bd0f4e19076d6fa25b9e937e8fe1/The_Matrix_Resurrections__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/cqF9zjgaRBBdm0wko0nJE/69009de8db056365ba0799de91785f2f/The_Matrix_Resurrections__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/2wjOeOAddi8WaTAvCdCltV/205b6bd1a52080bb206f0164f29547cf/The_Matrix_Resurrections__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5TImSqlWT05okglFJ7tGN6/f8c465af406c9c7fcad55d706228d13d/The_Matrix_Resurrections__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/7bO5zwkCXvOELmkDHSSyIZ/97d086c426f5d2305c73ba01c6b20001/The_Matrix_Resurrections.mp3",
+  },
 ];
