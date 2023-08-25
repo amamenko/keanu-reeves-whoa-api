@@ -1,8 +1,11 @@
-import express, { Request, Response } from "express";
-import { whoaArr } from "./whoaArr";
+import express from "express";
 import enforce from "express-sslify";
 import cors from "cors";
 import path from "path";
+import { getUniqueValuesFromArr } from "./utils/getUniqueValuesFromArr";
+import { whoaArr } from "./whoaArr";
+import { getRandomWhoa } from "./functions/getRandomWhoa";
+import { getOrderedWhoa } from "./functions/getOrderedWhoa";
 import "dotenv/config";
 
 const app = express();
@@ -14,6 +17,22 @@ app.use(cors());
 if (process.env.NODE_ENV === "production") {
   app.use(enforce.HTTPS({ trustProtoHeader: true }));
 }
+
+app.get("/whoas/random", (req, res) => {
+  getRandomWhoa(req, res);
+});
+
+app.get("/whoas/ordered/:index?", (req, res) => {
+  getOrderedWhoa(req, res);
+});
+
+app.get("/whoas/movies", (req, res) => {
+  res.send(getUniqueValuesFromArr(whoaArr, "movie"));
+});
+
+app.get("/whoas/directors", (req, res) => {
+  res.send(getUniqueValuesFromArr(whoaArr, "director"));
+});
 
 if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
