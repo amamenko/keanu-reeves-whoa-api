@@ -174,6 +174,7 @@ The Keanu Reeves Whoa API is not affiliated, associated, authorized, endorsed by
 - Homepage design inspired by [chucknorris.io](https://api.chucknorris.io/)
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [ReadMe](https://readme.com)
+- [@timiscoding](https://github.com/timiscoding) for original digital rain code
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

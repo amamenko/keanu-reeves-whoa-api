@@ -1,6 +1,5 @@
 /* 
-The inspiration for this visualisation comes from the example in the wikipedia article. All code is my own. @timiscoding
-
+"Whoa" Matrix rain code modified from @timiscoding
 https://en.wikipedia.org/wiki/Matrix_digital_rain
 */
 
