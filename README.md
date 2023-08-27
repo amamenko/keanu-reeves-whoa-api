@@ -4,12 +4,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <a href="https://github.com/amamenko/owen-wilson-wow-api">
+    <img src="./client/src/assets/images/Keanu.png" width="150" />
+  </a>
+
   <h3 align="center">The Keanu Reeves Whoa API</h3>
 
   <p align="center">
-    A free JSON API for actor Keanu Reeves's
+    A free JSON API for every 'whoa' said by
     <br />
-    'whoa' exclamations in movies
+    actor Keanu Reeves in his movies.
     <br />
   </p>
    <p align="center">API Link: <a href="https://whoa.onrender.com/">https://whoa.onrender.com</a></p>

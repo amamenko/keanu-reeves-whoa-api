@@ -1,0 +1,159 @@
+.heads_up_banner {
+  width: 100%;
+  display: flex;
+  background: #dc3444;
+  color: #fff;
+}
+
+@media only screen and (max-width: 768px) {
+  .heads_up_banner {
+    font-size: 0.75rem;
+  }
+}
+
+.heads_up_banner h2 {
+  width: 75%;
+  padding-left: 1rem;
+}
+
+.main_container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgb(39, 39, 39);
+}
+
+@media only screen and (max-width: 600px) {
+  .main_container {
+    border-left: 0;
+    border-right: 0;
+  }
+}
+
+.main_wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.documentation_wrapper {
+  padding: 0 0.5rem;
+}
+
+a,
+u {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+u:hover,
+a:hover {
+  color: rgb(200, 200, 200);
+}
+
+.api_logo {
+  width: 300px;
+}
+
+.paragraph {
+  margin-top: 2rem;
+}
+
+.read_more {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+.contact {
+  border-top: 1px solid #fff;
+  margin: 3rem 0rem 2rem 0rem;
+  padding-top: 2rem;
+}
+
+.disclaimer {
+  margin: 2rem 0;
+}
+
+.support_container {
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottom_icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 2rem 0 5rem 0;
+}
+
+.example_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0 0 2rem 0;
+}
+
+.interactive_wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  overflow: hidden;
+}
+
+.interactive_wrapper audio {
+  align-self: center;
+}
+
+.player-wrapper {
+  position: relative;
+  background-size: cover !important;
+  background-position: 20%;
+  width: 100%;
+  height: 100%;
+  max-width: 600px;
+}
+
+.blur {
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.react-player {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.react-player__preview {
+  background-size: contain !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .blur > div:first-child {
+    height: 215px !important;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .blur > div:first-child {
+    height: 336px !important;
+  }
+}

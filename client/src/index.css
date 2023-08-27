@@ -1,0 +1,143 @@
+@font-face {
+  font-family: OpenSauceSans;
+  font-weight: 700;
+  src: url("assets/fonts/OpenSauceSans-Bold.ttf");
+}
+
+div#root ~ main {
+  display: none;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #0e1117;
+  font: 16px/1.5 "Courier New", Arial, sans-serif;
+  color: #fff;
+}
+
+pre {
+  background: #000;
+  border: 1px solid rgb(39, 39, 39);
+  display: block;
+  font-size: 13px;
+  margin-bottom: 2em;
+  padding: 1em;
+  white-space: normal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  word-wrap: break-word;
+  white-space: normal;
+  padding: 0;
+}
+
+u,
+p a {
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+}
+
+u:hover,
+p a:hover {
+  border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+code a {
+  color: #fff;
+  font: 16px/1.5 "Courier New", Arial, sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+}
+
+code a:hover {
+  border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+code.request.get:before {
+  color: rgb(156, 220, 253);
+  content: "GET ";
+}
+
+code span {
+  margin-top: 0.1rem;
+}
+
+h2 {
+  font-family: OpenSauceSans, sans-serif;
+  font-weight: 700;
+}
+
+.json-key {
+  color: rgb(156, 220, 253);
+}
+
+.github-fork-ribbon:before {
+  background-color: #333;
+}
+
+.refresh-button-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.whoa-button {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  color: #000;
+  border: 1px solid #000;
+  background: rgb(185, 185, 185);
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+  padding: 6px 16px;
+  border-radius: 4px;
+  transition: background 0.25s ease;
+}
+
+.whoa-button:hover {
+  background: rgb(150, 150, 150);
+}
+
+.whoa-button::before {
+  background: transparent url("./assets/images/KeanuReeves.svg") center center
+    no-repeat;
+  background-size: contain;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  height: 2rem;
+  margin-inline-end: 1rem;
+  width: 2rem;
+}
+
+#mycanvas {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  margin: 0 auto;
+}
+
+.react-p5-wrapper {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#menuContainer {
+  display: none;
+}

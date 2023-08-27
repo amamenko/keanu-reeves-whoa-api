@@ -1,0 +1,211 @@
+# This is an OpenAPI description for the Keanu Reeves Whoa API.
+# You can view the resulting docs on ReadMe: https://whoa.readme.io
+openapi: 3.0.0
+info:
+  version: 1.0.1
+  title: The Keanu Reeves Whoa API
+  license:
+    name: MIT
+servers:
+  - url: https://keanu-reeves-whoa-api.onrender.com/whoas
+paths:
+  /random:
+    get:
+      summary: Random "Whoa"
+      description: Retrieve a random "whoa" in JSON format.
+      operationId: random
+      tags:
+        - whoa
+      parameters:
+        - name: results
+          in: query
+          description: Retrieve a specific number of random "whoa" results.
+          required: false
+          example: 5
+          schema:
+            type: integer
+        - name: year
+          in: query
+          description: Retrieve a random "whoa" from a specific year.
+          required: false
+          example: 1999
+          schema:
+            type: integer
+        - name: movie
+          in: query
+          description: Retrieve a random "whoa" by the name of the movie it appears in.
+          required: false
+          example: the matrix
+          schema:
+            type: string
+        - name: director
+          in: query
+          description: Retrieve a random "whoa" from a movie with a particular director.
+          required: false
+          example: eli roth
+          schema:
+            type: string
+        - name: whoa_in_movie
+          in: query
+          description: Retrieve a random "whoa" by the number of its occurrence in a movie.
+          required: false
+          example: 2
+          schema:
+            type: integer
+        - name: sort
+          in: query
+          description: Sort multiple random results by either movie, release_date, year, director, or number_current_whoa.
+          required: false
+          example: movie
+          schema:
+            type: string
+            enum: [movie, release_date, year, director, number_current_whoa]
+        - name: direction
+          in: query
+          description: Sort direction can be either asc (ascending) or desc (descending).
+          required: false
+          example: asc
+          schema:
+            type: string
+            enum: [asc, desc]
+      responses:
+        "200":
+          description: An array of movies
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Whoas"
+  /ordered/{index}:
+    get:
+      summary: Ordered "Whoa"
+      description: Retrieve "whoa" results by their index in the chronological order of all results.
+      operationId: ordered
+      tags:
+        - whoa
+      parameters:
+        - name: index
+          in: path
+          description: Index within results array. Either a single index or a range. Range is between a first index and a second index, inclusive.
+          required: true
+          examples:
+            single:
+              value: 0
+            range:
+              value: 3-7
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Either a single movie or an array of movies
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: "#/components/schemas/Whoa"
+                  - $ref: "#/components/schemas/Whoas"
+        "400":
+          description: Bad Request
+          content:
+            text/html:
+              schema:
+                type: string
+              examples:
+                response:
+                  summary: Invalid index input
+                  value: "400 Bad Request: Index should be a number or a range between two numbers"
+  /movies:
+    get:
+      summary: All Movies
+      description: Retrieve all names of movies in which Keanu Reeves says "whoa."
+      operationId: movies
+      tags:
+        - metadata
+      responses:
+        "200":
+          description: An array of movies
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+                  example: Cars
+  /directors:
+    get:
+      summary: All Directors
+      description: Retrieve all directors of movies in which Keanu Reeves says "whoa."
+      operationId: directors
+      tags:
+        - metadata
+      responses:
+        "200":
+          description: An array of directors
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+                  example: Wes Anderson
+
+components:
+  schemas:
+    Whoa:
+      type: object
+      properties:
+        movie:
+          type: string
+          example: Sweet November
+        year:
+          type: integer
+          example: 2001
+        release_date:
+          type: string
+          format: date
+          example: 2001-02-16
+        director:
+          type: string
+          example: Pat O'Connor
+        character:
+          type: string
+          example: Nelson Moss
+        movie_duration:
+          type: string
+          example: 02:00:21
+        timestamp:
+          type: string
+          example: 00:18:01
+        full_line:
+          type: string
+          example: Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa! Hold on. Hold on.
+        current_whoa_in_movie:
+          type: integer
+          example: 1
+        total_whoas_in_movie:
+          type: integer
+          example: 11
+        poster:
+          type: string
+          example: https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg
+        video:
+          type: object
+          properties:
+            1080p:
+              type: string
+              example: https://videos.ctfassets.net/a6ek464hq2lg/3iSexjNad3wSOsyHUX9U5/afdc1989b4b0776410b2284de9af236a/Sweet_November_1__1080p_.mp4
+            720p:
+              type: string
+              example: https://videos.ctfassets.net/a6ek464hq2lg/2RkKHIog16kmAPnSqS0lsw/caa75ae17f4aa0ec00b08ca0b14f2981/Sweet_November_1__720p_.mp4
+            480p:
+              type: string
+              example: https://videos.ctfassets.net/a6ek464hq2lg/6RDSDCfIno9jD8tuLBpman/92a6a18089db0e1efb6fd5acb21619d4/Sweet_November_1__480p_.mp4
+            360p:
+              type: string
+              example: https://videos.ctfassets.net/a6ek464hq2lg/21VLnPt13PGtRwrMwRRD7V/fab71b5a4892fea5a9ee08a443a11650/Sweet_November_1__360p_.mp4
+        audio:
+          type: string
+          example: https://assets.ctfassets.net/a6ek464hq2lg/3IMYdSMH4jOXjnD4ydYRkF/044e7230f1cc2fd43b51f997f1b9f23e/Sweet_November_1.mp3
+    Whoas:
+      type: array
+      items:
+        $ref: "#/components/schemas/Whoa"
