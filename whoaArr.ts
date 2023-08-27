@@ -2923,6 +2923,136 @@ export const whoaArr = [
       "https://assets.ctfassets.net/a6ek464hq2lg/2X5yzYDx4Vl339AjjSW5tl/0d0ca75be3e4244278b8124f0d305410/Toy_Story_4.mp3",
   },
   {
+    movie: "Bill & Ted Face the Music",
+    year: 2020,
+    release_date: "2020-08-28",
+    director: "Dean Parisot",
+    character: "Ted Logan",
+    movie_duration: "01:31:53",
+    timestamp: "00:12:30",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 1,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7uQk4GkGE6pklfiuTZ7KSt/843731f596de16ae363cdfaf636952d0/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/0F4V6aNn55wqUQGoojvAb/20c07445a38888cd91836b932abeacfd/Bill___Ted_Face_the_Music_1__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/bVU3c1kpM81av0g4lbnGr/d6c12b4040fe4936ed7bec8b422f0c48/Bill___Ted_Face_the_Music_1__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4jf0diFzrXTs01FmtnAh5D/54a9fe3ee530331c36c67fef901f7fef/Bill___Ted_Face_the_Music_1__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/35vzMGRs9FwC2qMlV3M2vK/3b188a353aa05d3d0e5c3e8f13185412/Bill___Ted_Face_the_Music_1__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2de2vZVYz8dY9q8K45Zeg3/92910c185fa5259ba22b4e5fa06c4cea/Bill___Ted_Face_the_Music_1.mp3",
+  },
+  {
+    movie: "Bill & Ted Face the Music",
+    year: 2020,
+    release_date: "2020-08-28",
+    director: "Dean Parisot",
+    character: "Ted Logan",
+    movie_duration: "01:31:53",
+    timestamp: "00:13:40",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 2,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7uQk4GkGE6pklfiuTZ7KSt/843731f596de16ae363cdfaf636952d0/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7I6M66UCOhsWXbO8rhGZee/575d787787dbb4e718e333a06e622b00/Bill___Ted_Face_the_Music_2__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/38DbsIm9YupJ1ORqByzKf3/07a9c4d3ecd9a90c2dce1ce45c99d636/Bill___Ted_Face_the_Music_2__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6SsOgnJdA1uM1TxEzGj1qb/33a25bdaffb98b2711e1a6883767674a/Bill___Ted_Face_the_Music_2__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4Zb3SYfs0V5n6tQJFellnv/5170bb0607ad60c8e4818dab5d2ec093/Bill___Ted_Face_the_Music_2__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/1CnbeNWmsdWRKzVaGALCew/3e0718e06fbdd8dc98666cba80603aa0/Bill___Ted_Face_the_Music_2.mp3",
+  },
+  {
+    movie: "Bill & Ted Face the Music",
+    year: 2020,
+    release_date: "2020-08-28",
+    director: "Dean Parisot",
+    character: "Ted Logan",
+    movie_duration: "01:31:53",
+    timestamp: "00:16:50",
+    full_line: "Whoa!",
+    current_whoa_in_movie: 3,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7uQk4GkGE6pklfiuTZ7KSt/843731f596de16ae363cdfaf636952d0/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/7icd5MIok6V0bdU5HcadkO/8e303dfa83b5d1fa43d6a575e98dcf59/Bill___Ted_Face_the_Music_3__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1TqQI7ZV5AI5fnkSl8OLQD/6e66e1214082a7048cfb15f61cdd7210/Bill___Ted_Face_the_Music_3__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3eVae1jrvqpOTiggnxmLSI/894b6ee5764cb34c2a6fd7c5b56d1f63/Bill___Ted_Face_the_Music_3__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/vpKMikIkJYy9M7A9RtQN2/6a334ad148e012921574c6f6897a0cdf/Bill___Ted_Face_the_Music_3__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/2dwaU7FRO8VNKZZZf19LpF/ef7cc390c9cdeddf3e98e235b871b967/Bill___Ted_Face_the_Music_3.mp3",
+  },
+  {
+    movie: "Bill & Ted Face the Music",
+    year: 2020,
+    release_date: "2020-08-28",
+    director: "Dean Parisot",
+    character: "Ted Logan",
+    movie_duration: "01:31:53",
+    timestamp: "00:52:06",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 4,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7uQk4GkGE6pklfiuTZ7KSt/843731f596de16ae363cdfaf636952d0/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1lwI52pfFtyRm1FTFsHePZ/7d55cddda9af21c562bd180e4921344b/Bill___Ted_Face_the_Music_4__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5jCDzB9Wp1sOWidHohwEH7/bdbaaffe404b5a924e66066b9ddcdfe6/Bill___Ted_Face_the_Music_4__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/5UYzVOiFbxncdfXRN4Zs2E/6c29d293d43100a66f0131f25fce9bf8/Bill___Ted_Face_the_Music_4__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/4ATyCQAidN98nDVS0n0u52/bb4078babcf5d249f9ca550cc7d3fab9/Bill___Ted_Face_the_Music_4__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/BRksxxyMSg8mSTtaADpMc/65f1b78b6351a57e1dacd7c218bea532/Bill___Ted_Face_the_Music_4.mp3",
+  },
+  {
+    movie: "Bill & Ted Face the Music",
+    year: 2020,
+    release_date: "2020-08-28",
+    director: "Dean Parisot",
+    character: "Ted Logan",
+    movie_duration: "01:31:53",
+    timestamp: "01:12:22",
+    full_line: "Whoa.",
+    current_whoa_in_movie: 5,
+    total_whoas_in_movie: 5,
+    poster:
+      "https://images.ctfassets.net/a6ek464hq2lg/7uQk4GkGE6pklfiuTZ7KSt/843731f596de16ae363cdfaf636952d0/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+    video: {
+      "1080p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3soeiuupM2Sq7VdwJH8EVx/b3baa2f289634471dbfebb96477891a5/Bill___Ted_Face_the_Music_5__1080p_.mp4",
+      "720p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/1eGcF9dpZZkT9akeYwTbtF/52eeefe9ba6b360bfdaeb2f794a21ab0/Bill___Ted_Face_the_Music_5__720p_.mp4",
+      "480p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/6rZCMczwJkXInNl7N7mL7n/365da27af3ab37dd85f199b290df566e/Bill___Ted_Face_the_Music_5__480p_.mp4",
+      "360p":
+        "https://videos.ctfassets.net/a6ek464hq2lg/3P9QHmgf6H3JlPYTGTzeWK/d71cef8bdc014b759b21b7345322b715/Bill___Ted_Face_the_Music_5__360p_.mp4",
+    },
+    audio:
+      "https://assets.ctfassets.net/a6ek464hq2lg/6qr3Szn4YTOEKDA6z1s3Gf/b8e9f988e6d019afbdb06c538a43c9a0/Bill___Ted_Face_the_Music_5.mp3",
+  },
+  {
     movie: "The Matrix Resurrections",
     year: 2021,
     release_date: "2021-12-22",
