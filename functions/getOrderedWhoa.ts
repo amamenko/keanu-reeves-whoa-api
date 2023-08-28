@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { whoaArr } from "../whoaArr";
+import { whoaArr } from "../arrays/whoaArr";
 
 export const getOrderedWhoa = (req: Request, res: Response) => {
   if (req.params.index) {

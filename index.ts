@@ -3,7 +3,7 @@ import enforce from "express-sslify";
 import cors from "cors";
 import path from "path";
 import { getUniqueValuesFromArr } from "./utils/getUniqueValuesFromArr";
-import { whoaArr } from "./whoaArr";
+import { whoaArr } from "./arrays/whoaArr";
 import { getRandomWhoa } from "./functions/getRandomWhoa";
 import { getOrderedWhoa } from "./functions/getOrderedWhoa";
 import "dotenv/config";
@@ -32,6 +32,10 @@ app.get("/whoas/movies", (req, res) => {
 
 app.get("/whoas/directors", (req, res) => {
   res.send(getUniqueValuesFromArr(whoaArr, "director"));
+});
+
+app.get("/health", (req, res) => {
+  res.send("The Keanu Reeves Whoa API is up and running!");
 });
 
 if (process.env.NODE_ENV === "production") {

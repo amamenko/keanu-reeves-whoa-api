@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { whoaArr } from "../whoaArr";
+import { whoaArr } from "../arrays/whoaArr";
 import sampleSize from "lodash.samplesize";
 
 export const getRandomWhoa = (req: Request, res: Response) => {

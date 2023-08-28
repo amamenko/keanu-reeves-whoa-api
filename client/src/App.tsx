@@ -75,11 +75,19 @@ const App = () => {
               his movies.
               <br />
               <br />
-              <a href="https://whoa.readme.io" rel="noreferrer noopener">
+              <a
+                href="https://whoa.readme.io"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 View the full API docs
               </a>{" "}
               (powered by{" "}
-              <a href="https://readme.com" rel="noreferrer noopener">
+              <a
+                href="https://readme.com"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 ReadMe 🦉
               </a>
               )
@@ -97,6 +105,7 @@ const App = () => {
               In 2018, YouTuber Owenergy uploaded a{" "}
               <a
                 href="https://www.youtube.com/watch?v=Odo5hwu9-wM"
+                target="_blank"
                 rel="noreferrer noopener"
               >
                 video
@@ -117,11 +126,12 @@ const App = () => {
               Additionally, in 2019, Screen Rant, an entertainment website,{" "}
               <a
                 href="https://screenrant.com/keanu-reeves-whoa-movies/"
+                target="_blank"
                 rel="noreferrer noopener"
               >
                 released an article
               </a>{" "}
-              detailing the 113 times Keanu Reeves has supposedly said "whoa" in
+              detailing the 118 times Keanu Reeves has supposedly said "whoa" in
               films.
             </p>
             <p className={`paragraph ${showMore ? "" : "hidden"}`}>
@@ -314,6 +324,7 @@ const App = () => {
               API, feel free to open up an{" "}
               <a
                 href="https://github.com/amamenko/keanu-reeves-whoa-api/issues"
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 issue
@@ -321,6 +332,7 @@ const App = () => {
               on its{" "}
               <a
                 href="https://github.com/amamenko/keanu-reeves-whoa-api"
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 GitHub repository
@@ -329,12 +341,17 @@ const App = () => {
               out to its creator on Twitter{" "}
               <a
                 href="https://twitter.com/AviMamenko"
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 @AviMamenko
               </a>{" "}
               or by filling out the contact form on{" "}
-              <a href="https://amamenko.github.io" rel="noopener noreferrer">
+              <a
+                href="https://amamenko.github.io"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 his website
               </a>
               .
@@ -352,7 +369,11 @@ const App = () => {
           </div>
           <p>
             The Keanu Reeves Whoa API was created in 2023 by{" "}
-            <a href="https://amamenko.github.io" rel="noopener noreferrer">
+            <a
+              href="https://amamenko.github.io"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Avi Mamenko
             </a>
             .
@@ -368,11 +389,16 @@ const App = () => {
           <div className="bottom_icons">
             <a
               href="https://github.com/amamenko/keanu-reeves-whoa-api"
+              target="_blank"
               rel="noopener noreferrer"
             >
               <FaGithub color="#fff" size="50" />
             </a>
-            <a href="https://twitter.com/AviMamenko" rel="noopener noreferrer">
+            <a
+              href="https://twitter.com/AviMamenko"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <AiFillTwitterCircle color="#fff" size="55" />{" "}
             </a>
           </div>
