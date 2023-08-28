@@ -172,7 +172,7 @@ const App = () => {
             <div className="example_wrapper">
               <div className="interactive_wrapper">
                 <div
-                  className="player-wrapper"
+                  className={"player-wrapper"}
                   style={{
                     backgroundImage: "url(" + exampleJSON.poster + ")",
                   }}

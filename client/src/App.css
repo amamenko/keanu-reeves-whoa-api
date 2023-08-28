@@ -124,12 +124,20 @@ a:hover {
   max-width: 600px;
 }
 
+.player-wrapper:has(video) {
+  background-image: none !important;
+}
+
 .blur {
   background: rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(10px);
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.player-wrapper .blur video {
+  height: auto !important;
 }
 
 .react-player {
