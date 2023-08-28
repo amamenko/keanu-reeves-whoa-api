@@ -5,12 +5,32 @@ interface EndpointsProps {
 export const Endpoints = ({ currentURL }: EndpointsProps) => {
   return (
     <>
-      <h4>Multiple Results</h4>
+      <h4>Multiple results</h4>
       <p>Retrieve a specific number of random "whoa" results.</p>
       <pre>
         <code className="request get">
           <a href={`${currentURL}/whoas/random?results=5`}>
             {currentURL}/whoas/random?results=5
+          </a>
+        </code>
+      </pre>
+      <h4>Specify grouping behavior</h4>
+      <p>
+        Retrieve a random "whoa" and explicitly set its grouping behavior, if
+        applicable.
+      </p>
+      <p>
+        By default, "whoa" instances that are part of a distinct consecutive
+        group include the entire grouped "whoa" clip in their video and audio
+        response fields.
+      </p>
+      <p>
+        The individual "whoa" clip from the grouping can be fetched, instead.
+      </p>
+      <pre>
+        <code className="request get">
+          <a href={`${currentURL}/whoas/random?group_whoa_assets=false`}>
+            {currentURL}/whoas/random?group_whoa_assets=false
           </a>
         </code>
       </pre>

@@ -775,7 +775,7 @@ export const whoaArr = [
     character: "Ted Logan",
     movie_duration: "01:29:51",
     timestamp: "00:40:36",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 15,
     total_whoas_in_movie: 26,
     whoa_grouping: {
@@ -806,7 +806,7 @@ export const whoaArr = [
     character: "Ted Logan",
     movie_duration: "01:29:51",
     timestamp: "00:40:38",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 16,
     total_whoas_in_movie: 26,
     whoa_grouping: {
@@ -837,7 +837,7 @@ export const whoaArr = [
     character: "Ted Logan",
     movie_duration: "01:29:51",
     timestamp: "00:41:10",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 17,
     total_whoas_in_movie: 26,
     whoa_grouping: {
@@ -868,7 +868,7 @@ export const whoaArr = [
     character: "Ted Logan",
     movie_duration: "01:29:51",
     timestamp: "00:41:17",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 18,
     total_whoas_in_movie: 26,
     whoa_grouping: {
@@ -899,7 +899,7 @@ export const whoaArr = [
     character: "Ted Logan",
     movie_duration: "01:29:51",
     timestamp: "00:46:10",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 19,
     total_whoas_in_movie: 26,
     whoa_grouping: {
@@ -930,7 +930,7 @@ export const whoaArr = [
     character: "Ted Logan",
     movie_duration: "01:29:51",
     timestamp: "00:46:22",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 20,
     total_whoas_in_movie: 26,
     whoa_grouping: {
@@ -1563,7 +1563,7 @@ export const whoaArr = [
     character: "Ted Logan / Evil Ted",
     movie_duration: "01:33:52",
     timestamp: "00:34:32",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 8,
     total_whoas_in_movie: 28,
     whoa_grouping: {
@@ -1594,7 +1594,7 @@ export const whoaArr = [
     character: "Ted Logan / Evil Ted",
     movie_duration: "01:33:52",
     timestamp: "00:34:36",
-    full_line: "Whoa!",
+    full_line: "Whoa! Whoa!",
     current_whoa_in_movie: 9,
     total_whoas_in_movie: 28,
     whoa_grouping: {

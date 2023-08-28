@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import { whoaArr } from "../arrays/whoaArr";
 import sampleSize from "lodash.samplesize";
+import { substituteGroupedWhoas } from "../utils/substituteGroupedWhoas";
 
 export const getRandomWhoa = (req: Request, res: Response) => {
   const numResults = Number(req.query.results);
@@ -10,6 +11,9 @@ export const getRandomWhoa = (req: Request, res: Response) => {
   const directorName = (req.query.director as string) || "";
   const sortBy = req.query.sort;
   const direction = req.query.direction;
+  // Whoas are grouped by default unless explicitly turned off
+  const groupWhoaAssets =
+    req.query.group_whoa_assets === "false" ? false : true;
 
   let viableWhoas = whoaArr;
 
@@ -84,6 +88,8 @@ export const getRandomWhoa = (req: Request, res: Response) => {
       }
     }
   }
+
+  if (groupWhoaAssets) randomWhoa = substituteGroupedWhoas(randomWhoa);
 
   res.send(randomWhoa);
   return;

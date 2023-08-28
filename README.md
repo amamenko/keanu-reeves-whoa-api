@@ -37,30 +37,56 @@ Retrieve a random "whoa" in JSON format - [https://whoa.onrender.com/whoas/rando
     "director": "Lana Wachowski and Lilly Wachowski",
     "character": "Thomas A. Anderson / Neo",
     "movie_duration": "02:16:17",
-    "timestamp": "01:18:49",
-    "full_line": "Whoa. Déjà vu.",
-    "current_whoa_in_movie": 6,
+    "timestamp": "00:54:44",
+    "full_line": "Whoa! Whoa! Whoa!",
+    "current_whoa_in_movie": 4,
     "total_whoas_in_movie": 6,
+    "whoa_grouping": {
+      "movie_whoa_group_index": 0,
+      "current_whoa_in_group": 2,
+      "total_whoas_in_group": 3
+    },
     "poster": "https://images.ctfassets.net/a6ek464hq2lg/1Uto5Nrfn8wkYYdyaoOOs4/128bbaecf198ac68bc0f955863a9d255/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
     "video": {
-      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/5NTBHy9NCGaXsIlVMrvLpw/8fc17c4f5fc37044ca2655b68adb1a18/The_Matrix_6__1080p_.mp4",
-      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/7iyJdpy6xiUHuZLBquUma/7cf998052c59bbff2aaada9b61328821/The_Matrix_6__720p_.mp4",
-      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/7qxWqdneipvA3fS3rpsVP6/5daeecb78395f8ce10281e9182a960c5/The_Matrix_6__480p_.mp4",
-      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/66GcBrYITZmBiauJ4QVxrv/f248b237805fef8a3952176e1cfef828/The_Matrix_6__360p_.mp4"
+      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/5YPixGFJf5ytvzXW6W4Gxt/575da63146cf9acf2d3e745b75520d0e/The_Matrix__1999__Grouping_0__1080p_.mp4",
+      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/42t7GmqpQVHg9VYrzzSqqM/e2b94d8718b3dda1f2f020b8091dc567/The_Matrix__1999__Grouping_0__720p_.mp4",
+      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/11qCqXlLgT64p9kQiYn9x6/b8c027358ee404d266d3aaea387368d3/The_Matrix__1999__Grouping_0__480p_.mp4",
+      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/3qoKdr7TCNWx6JsI9l8NN/d64ee14c8f6b7377c19dd459e4049bc7/The_Matrix__1999__Grouping_0__360p_.mp4"
     },
-    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/47wxI3JoI470cvVGQDqbp8/a0205796eab42e57b7da806d4d92177c/The_Matrix_6.mp3"
+    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/1H4vuNlYSOTQm62pt8XgV7/d3312512abc642b37f0ba11d30b8505a/The_Matrix__1999__Grouping_0.mp3"
   }
 ]
 ```
 
 ### Multiple Results
 
-Retrieve a specific number of random "whoa" results - [https://whoa.onrender.com/whoas/random?results=5](https://whoa.onrender.com/whoas/random?results=2)
+Retrieve a specific number of random "whoa" results - [https://whoa.onrender.com/whoas/random?results=2](https://whoa.onrender.com/whoas/random?results=2)
 
 <b>Example Response:</b>
 
 ```jsonc
 [
+  {
+    "movie": "Bill & Ted Face the Music",
+    "year": 2020,
+    "release_date": "2020-08-28",
+    "director": "Dean Parisot",
+    "character": "Ted Logan",
+    "movie_duration": "01:31:53",
+    "timestamp": "01:12:22",
+    "full_line": "Whoa.",
+    "current_whoa_in_movie": 5,
+    "total_whoas_in_movie": 5,
+    "whoa_grouping": null,
+    "poster": "https://images.ctfassets.net/a6ek464hq2lg/7uQk4GkGE6pklfiuTZ7KSt/843731f596de16ae363cdfaf636952d0/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+    "video": {
+      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/3soeiuupM2Sq7VdwJH8EVx/b3baa2f289634471dbfebb96477891a5/Bill___Ted_Face_the_Music_5__1080p_.mp4",
+      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/1eGcF9dpZZkT9akeYwTbtF/52eeefe9ba6b360bfdaeb2f794a21ab0/Bill___Ted_Face_the_Music_5__720p_.mp4",
+      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/6rZCMczwJkXInNl7N7mL7n/365da27af3ab37dd85f199b290df566e/Bill___Ted_Face_the_Music_5__480p_.mp4",
+      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/3P9QHmgf6H3JlPYTGTzeWK/d71cef8bdc014b759b21b7345322b715/Bill___Ted_Face_the_Music_5__360p_.mp4"
+    },
+    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/6qr3Szn4YTOEKDA6z1s3Gf/b8e9f988e6d019afbdb06c538a43c9a0/Bill___Ted_Face_the_Music_5.mp3"
+  },
   {
     "movie": "Bill & Ted's Excellent Adventure",
     "year": 1989,
@@ -68,41 +94,30 @@ Retrieve a specific number of random "whoa" results - [https://whoa.onrender.com
     "director": "Stephen Herek",
     "character": "Ted Logan",
     "movie_duration": "01:29:51",
-    "timestamp": "00:16:44",
-    "full_line": "Whoa. Excellent!",
-    "current_whoa_in_movie": 4,
+    "timestamp": "00:14:20",
+    "full_line": "Whoa!",
+    "current_whoa_in_movie": 2,
     "total_whoas_in_movie": 26,
+    "whoa_grouping": null,
     "poster": "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     "video": {
-      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/2FDAjLGTeVb0hDkEHBguqp/8c012e22a6f72edfc3f64ffd24c881e2/Bill___Ted-s_Excellent_Adventure_4__1080p_.mp4",
-      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/2c2rwi9fsVuVcLqYXuBj0k/05c4c2589faa580a638b664550931a70/Bill___Ted-s_Excellent_Adventure_4__720p_.mp4",
-      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/5A4vqjxKdovZFGx06L7voF/11a093f676f2d68df77e356d34fd244b/Bill___Ted-s_Excellent_Adventure_4__480p_.mp4",
-      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/2Ulvq0iXBjNu7rGsXEmgXi/4812b65c5c4384fd73dae69bf0cedc1b/Bill___Ted-s_Excellent_Adventure_4__360p_.mp4"
+      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/2o7YGgruu4rxpsjfSujafW/141c186a160462de1a8463939589d25c/Bill___Ted-s_Excellent_Adventure_2__1080p_.mp4",
+      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/60LRrCfWp3ZDC6u805xMb7/5e17b087d8ad981ac1c39312c4aee060/Bill___Ted-s_Excellent_Adventure_2__720p_.mp4",
+      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/3qCWJjDV1r0kWhKmco3Tzr/0082cc6344d06998bdce807ccd117cfa/Bill___Ted-s_Excellent_Adventure_2__480p_.mp4",
+      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/73281tLGyAcL8fY14WaFND/d9d10fdf889542590cbfca42dcb12f4b/Bill___Ted-s_Excellent_Adventure_2__360p_.mp4"
     },
-    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/1f4CFzBlMrPdIcSAN3A5UW/5d0dbfd884acc151b3aab54d985c9662/Bill___Ted-s_Excellent_Adventure_4.mp3"
-  },
-  {
-    "movie": "Bill & Ted's Bogus Journey",
-    "year": 1991,
-    "release_date": "1991-07-19",
-    "director": "Pete Hewitt",
-    "character": "Ted Logan / Evil Ted",
-    "movie_duration": "01:33:52",
-    "timestamp": "00:40:03",
-    "full_line": "Whoa. Where are we?",
-    "current_whoa_in_movie": 16,
-    "total_whoas_in_movie": 28,
-    "poster": "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
-    "video": {
-      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/5cChn7KvUVDHHlVbl8KMao/f8651ddb7d706afbe1a3ac1311a0e868/Bill___Ted-s_Bogus_Journey_16__1080p_.mp4",
-      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/3Dnn9TiaQgm7sRJ687ASro/14ab59707fa475a10b7ce33d5cec2768/Bill___Ted-s_Bogus_Journey_16__720p_.mp4",
-      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/64mOC3oALd5LvxaaCjHJGg/e6ae03f72ce09d28727211fb59322197/Bill___Ted-s_Bogus_Journey_16__480p_.mp4",
-      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/3uBLxVwzSonPgKI7fwp36t/5e65fae5a94ac40f9e8ca4f90015e2c6/Bill___Ted-s_Bogus_Journey_16__360p_.mp4"
-    },
-    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/1aLk3arCi8F4DH6JzY3oBY/73bca1ecaa69274645b2c8968a55f975/Bill___Ted-s_Bogus_Journey_16.mp3"
+    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/5bLoElgd2xd8k3ClUb88W3/93aa87b40a67ffa1be754db0517eeab9/Bill___Ted-s_Excellent_Adventure_2.mp3"
   }
 ]
 ```
+
+### Specify grouping behavior
+
+Retrieve a random "whoa" and explicitly set its grouping behavior, if applicable.
+
+By default, "whoa" instances that are part of a distinct consecutive group include the entire grouped "whoa" clip in their video and audio response fields.
+
+The individual "whoa" clip from the grouping can be fetched, instead - [https://whoa.onrender.com/whoas/random?group_whoa_assets=false](https://whoa.onrender.com/whoas/random?group_whoa_assets=false)
 
 ### Specify year
 
@@ -110,11 +125,11 @@ Retrieve a random "whoa" from a specific year - [https://whoa.onrender.com/whoas
 
 ### Specify movie
 
-Retrieve a random "whoa" by the name of the movie it appears in - [https://whoa.onrender.com/whoas/random?movie=zoolander](https://whoa.onrender.com/whoas/random?movie=zoolander)
+Retrieve a random "whoa" by the name of the movie it appears in - [https://whoa.onrender.com/whoas/random?movie=the%20matrix](https://whoa.onrender.com/whoas/random?movie=the%20matrix)
 
 ### Specify director
 
-Retrieve a random "whoa" from a movie with a particular director - [https://whoa.onrender.com/whoas/random?director=wes%20anderson](https://whoa.onrender.com/whoas/random?director=wes%20anderson)
+Retrieve a random "whoa" from a movie with a particular director - [https://whoa.onrender.com/whoas/random?director=eli%20roth](https://whoa.onrender.com/whoas/random?director=eli%20roth)
 
 ### Specify movie occurrence number
 
@@ -134,7 +149,7 @@ Retrieve all "whoa" results between a first index and a second index, inclusive,
 
 ## All Movies
 
-Retrieve all names of movies in which Keanu Reeves says "whoa" - https://whoa.onrender.com/whoas/movies
+Retrieve all names of movies in which Keanu Reeves says "whoa" - [https://whoa.onrender.com/whoas/movies](https://whoa.onrender.com/whoas/movies)
 
 ## All Directors
 

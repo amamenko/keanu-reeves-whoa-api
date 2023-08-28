@@ -68,6 +68,14 @@ paths:
           schema:
             type: string
             enum: [asc, desc]
+        - name: group_whoa_assets
+          in: query
+          description: Whether to include entire grouped "whoa" clip (as opposed to single "whoa" clip) in video and audio responses for "whoa" instances that are part of a distinct consecutive grouping.
+          required: false
+          example: false
+          schema:
+            type: boolean
+            default: true
       responses:
         "200":
           description: An array of movies
@@ -94,6 +102,14 @@ paths:
               value: 3-7
           schema:
             type: string
+        - name: group_whoa_assets
+          in: query
+          description: Whether to include entire grouped "whoa" clip (as opposed to single "whoa" clip) in video and audio responses for "whoa" instances that are part of a distinct consecutive grouping.
+          required: false
+          example: false
+          schema:
+            type: boolean
+            default: true
       responses:
         "200":
           description: Either a single movie or an array of movies
@@ -184,6 +200,19 @@ components:
         total_whoas_in_movie:
           type: integer
           example: 11
+        whoa_grouping:
+          type: object
+          nullable: true
+          properties:
+            movie_whoa_group_index:
+              type: integer
+              example: 0
+            current_whoa_in_group:
+              type: integer
+              example: 1
+            total_whoas_in_group:
+              type: integer
+              example: 11
         poster:
           type: string
           example: https://images.ctfassets.net/a6ek464hq2lg/3dppWWi8pdZr16Ej83Wy4m/d18887d008caa71fcc84d840573bee7f/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg
