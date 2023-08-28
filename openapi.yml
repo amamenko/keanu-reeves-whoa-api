@@ -2,7 +2,7 @@
 # You can view the resulting docs on ReadMe: https://whoa.readme.io
 openapi: 3.0.0
 info:
-  version: "1.0.0"
+  version: 1.0.0
   title: The Keanu Reeves Whoa API
   license:
     name: MIT

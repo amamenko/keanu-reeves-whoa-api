@@ -19,4 +19,4 @@ jobs:
       - name: Sync openapi.yml to ReadMe
         uses: readmeio/rdme@v8
         with:
-          rdme: openapi openapi.yml --key=${{ secrets.README_API_KEY }} --id=TODO
+          rdme: openapi openapi.yml --key=${{ secrets.README_API_KEY }} --id=${{ secrets.README_API_ID }}
