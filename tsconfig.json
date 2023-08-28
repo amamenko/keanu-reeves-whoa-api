@@ -1,8 +1,15 @@
 {
   "compilerOptions": {
+    "lib": ["es2021", "dom"],
     "module": "commonjs",
-    "target": "es6",
-    "rootDir": "./",
+    "noImplicitReturns": true,
+    "noImplicitAny": false,
+    "outDir": "lib",
+    "sourceMap": true,
+    "target": "es2017",
+    "allowJs": true,
+    "resolveJsonModule": true,
     "esModuleInterop": true
-  }
+  },
+  "compileOnSave": true
 }
