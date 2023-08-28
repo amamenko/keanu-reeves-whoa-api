@@ -1,5 +1,4 @@
 import express from "express";
-import enforce from "express-sslify";
 import cors from "cors";
 import path from "path";
 import { getUniqueValuesFromArr } from "./utils/getUniqueValuesFromArr";
@@ -13,10 +12,6 @@ const port = process.env.PORT || 4000;
 
 // Enable all cross-origin requests
 app.use(cors());
-
-if (process.env.NODE_ENV === "production") {
-  app.use(enforce.HTTPS({ trustProtoHeader: true }));
-}
 
 app.get("/whoas/random", (req, res) => {
   getRandomWhoa(req, res);
