@@ -39,6 +39,7 @@
   margin: 0 auto;
 }
 
+.explanation_paragraphs,
 .documentation_wrapper {
   padding: 0 0.5rem;
 }
@@ -87,6 +88,30 @@ a:hover {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.similar_projects_container {
+  text-align: center;
+  margin: 2rem 0 0 0;
+}
+
+.similar_projects_container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.similar_projects_container ul li:not(:first-child) {
+  margin-top: 1rem;
+}
+
+.similar_projects_container li a {
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+}
+
+.similar_projects_container li a:hover {
+  border-bottom: 1px solid rgb(200, 200, 200);
 }
 
 .bottom_icons {
