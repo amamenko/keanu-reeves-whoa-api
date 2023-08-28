@@ -708,4 +708,3 @@ export const matrixRain = (p) => {
 };
 
 export const myp5 = new p5(matrixRain);
-console.log(myp5);

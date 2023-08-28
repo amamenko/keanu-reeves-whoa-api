@@ -156,7 +156,7 @@ const App = () => {
                 <div dangerouslySetInnerHTML={{ __html: exampleResponse }} />
               ) : (
                 <ClipLoader
-                  color={"#000"}
+                  color={"#fff"}
                   loading={exampleResponse ? false : true}
                   size={15}
                 />
@@ -200,7 +200,7 @@ const App = () => {
             </div>
           ) : (
             <div className="example_wrapper">
-              <ClipLoader color={"#000"} loading={true} size={100} />
+              <ClipLoader color={"#fff"} loading={true} size={100} />
             </div>
           )}
           <div className="refresh-button-wrapper">
