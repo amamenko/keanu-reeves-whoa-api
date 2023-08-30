@@ -77,16 +77,16 @@ export const groupingsArr = [
       {
         video: {
           "1080p":
-            "https://videos.ctfassets.net/a6ek464hq2lg/2GXuwsSlDo72KY4jdqYCH5/b866bc3f129f4cf9741761cb07a5a8ba/Point_Break__1991__Grouping_0__1080p_.mp4",
+            "https://videos.ctfassets.net/a6ek464hq2lg/3n6vpWoPo6FqzGE8sRIfiV/4628f69af88bff6bf383419a013b20b0/Point_Break__1991__Grouping_0__1080p_.mp4",
           "720p":
-            "https://videos.ctfassets.net/a6ek464hq2lg/6BDiDL5v0pg7aDZPZciwNC/5eb887c92e99ff73983f417bd71285d5/Point_Break__1991__Grouping_0__720p_.mp4",
+            "https://videos.ctfassets.net/a6ek464hq2lg/kCjDfKTN4gXDnt7hwgrp2/82e3e87e8365ebde2a2444a44e4746af/Point_Break__1991__Grouping_0__720p_.mp4",
           "480p":
-            "https://videos.ctfassets.net/a6ek464hq2lg/49wjMDOj5hwhZdoyFJDJ5I/c098672f41b0c3e1352f83a6ebfd20fb/Point_Break__1991__Grouping_0__480p_.mp4",
+            "https://videos.ctfassets.net/a6ek464hq2lg/7H9HcS2pdAqeuXXHjK9Rqi/d33feb83c0bcf85179485eb9d437186b/Point_Break__1991__Grouping_0__480p_.mp4",
           "360p":
-            "https://videos.ctfassets.net/a6ek464hq2lg/py34fv8unheTNVhVjOMMo/dbf51fc9adc144a79c2b5e796d432c91/Point_Break__1991__Grouping_0__360p_.mp4",
+            "https://videos.ctfassets.net/a6ek464hq2lg/1bg4HYS0vCpFCEW30egpCK/80f104a8aa73118e9279ad7f6211ef94/Point_Break__1991__Grouping_0__360p_.mp4",
         },
         audio:
-          "https://assets.ctfassets.net/a6ek464hq2lg/2hh4jrVgx29s0Z4Yfpc4G1/f7ebf6c42fc6d0d7abe05243b0f2aa35/Point_Break__1991__Grouping_0.mp3",
+          "https://assets.ctfassets.net/a6ek464hq2lg/7tDz93uRX8clJdb8Ul7LnG/0a823ec9dd0b1536dad490b74f75c8f3/Point_Break__1991__Grouping_0.mp3",
       },
     ],
   },
