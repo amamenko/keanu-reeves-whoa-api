@@ -405,16 +405,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5NBfXwqeucnxPj6HbNqtm1/0b0ad04bea38b00b01bbb0973a7a431f/Bill___Ted-s_Excellent_Adventure_1__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/58bCfSyLTICvbkHyHjoKHW/cd95b651d48eed1b353181751eae87d2/Bill___Ted-s_Excellent_Adventure_1__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5mS9N4Jt3rrSXz9no5zjA5/4d373f2561c28623dd1c2ae1249aa6fc/Bill___Ted-s_Excellent_Adventure_1__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3RO4v6N2abiAmHhiViLCs8/606460dda46ee61e92ece5b924a60334/Bill___Ted-s_Excellent_Adventure_1__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/71sbqYBxvlWtBnKoD5pKJF/55fb2892d5803e58e3147c98a7668799/Bill___Ted-s_Excellent_Adventure_1__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3CqlLh2gaoq8HYvkE5WgW7/97f8ac5ae842a47dcc80048717240975/Bill___Ted-s_Excellent_Adventure_1__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6biozOxEIbPc3I560XQVry/5c5f797c20670d746a12cb59ef87ae7d/Bill___Ted-s_Excellent_Adventure_1__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5WpCGeJ1Dkfp45E5XBrlDA/924594a2a43ff7fb5e1c025ee178f738/Bill___Ted-s_Excellent_Adventure_1__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/2WTrkyjUUmWdQcn3Wu8oeB/d5dc76e3e792f25b70e2b62453b13c65/Bill___Ted-s_Excellent_Adventure_1.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/5rTgNZuFId821StDhYm8e6/10248c0ebdf36f766ce5444989ed5b8b/Bill___Ted-s_Excellent_Adventure_1.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -432,16 +432,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2o7YGgruu4rxpsjfSujafW/141c186a160462de1a8463939589d25c/Bill___Ted-s_Excellent_Adventure_2__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4mamQcYRVEnJE4MrLefLJn/93a2a72ee98ffea0c8315ddce0f184c2/Bill___Ted-s_Excellent_Adventure_2__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/60LRrCfWp3ZDC6u805xMb7/5e17b087d8ad981ac1c39312c4aee060/Bill___Ted-s_Excellent_Adventure_2__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/sXDVpQsgppNFhLIF23Eq4/069443d49fe9258d2bca13bcf8b841b5/Bill___Ted-s_Excellent_Adventure_2__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3qCWJjDV1r0kWhKmco3Tzr/0082cc6344d06998bdce807ccd117cfa/Bill___Ted-s_Excellent_Adventure_2__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3B4337fbPBcV2LQT9mFAiK/5eab91f2051ee5048a759b08deebd951/Bill___Ted-s_Excellent_Adventure_2__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/73281tLGyAcL8fY14WaFND/d9d10fdf889542590cbfca42dcb12f4b/Bill___Ted-s_Excellent_Adventure_2__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/9mvRkjlcVwCjO3YnjxaH7/787f1ed3957490e8d756aa03129a148e/Bill___Ted-s_Excellent_Adventure_2__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/5bLoElgd2xd8k3ClUb88W3/93aa87b40a67ffa1be754db0517eeab9/Bill___Ted-s_Excellent_Adventure_2.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/348YrzweMDNTu31S66KUvV/60cbdf53791f0bf2083df799c0cda96b/Bill___Ted-s_Excellent_Adventure_2.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -459,16 +459,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2MK3xOuFTKkKZDJu8nR1uo/300eb2646f5d4ac88d216db0ca92a040/Bill___Ted-s_Excellent_Adventure_3__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5QhBNOP3aRBCowNOMfc5mC/a11f22bfb6b8b20dc2944925f4d15452/Bill___Ted-s_Excellent_Adventure_3__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/14oedRT1kdyjLd20kD44Dn/b75eb5e9416db27541f8fb95eb29d927/Bill___Ted-s_Excellent_Adventure_3__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5sviyU3QKnWexg08o3ySKL/869d7e7492cc30829aff1d614efc6336/Bill___Ted-s_Excellent_Adventure_3__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1oIHtBHvrWfnK2LiLxskFf/f70b23fb2a8b5f28b0e9e9f3053937b2/Bill___Ted-s_Excellent_Adventure_3__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5Z9ypeuWpDD7WAVgTQsWts/967c62b54e0bd14b32d59fb141c7a1be/Bill___Ted-s_Excellent_Adventure_3__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2gDzUUnlk0UE8EnndJYLzY/71a29bdb3a20f9cdd3b35a266e84302d/Bill___Ted-s_Excellent_Adventure_3__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6eFmfAjyum7EhMfdDeY7xE/c7cf0e42cd0a69f013c5f41bf3f9e5b3/Bill___Ted-s_Excellent_Adventure_3__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/1CUokUk87suGSykIVMLFkl/a962b5f9959ba2272a5d4655e612c91e/Bill___Ted-s_Excellent_Adventure_3.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/SUx0fOqPPyzFDWEKQE6CW/d85202f7046ef7162a8a78e72cb4797e/Bill___Ted-s_Excellent_Adventure_3.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -486,16 +486,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2FDAjLGTeVb0hDkEHBguqp/8c012e22a6f72edfc3f64ffd24c881e2/Bill___Ted-s_Excellent_Adventure_4__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6wjhaCp0awAci7nk387fRc/42b1a5617e5ed19c93fb83f9c0276530/Bill___Ted-s_Excellent_Adventure_4__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2c2rwi9fsVuVcLqYXuBj0k/05c4c2589faa580a638b664550931a70/Bill___Ted-s_Excellent_Adventure_4__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6seLRnhsRuFc2vbXBhtkI7/75c59cdd44a8c5ece4e3fedeb9dbae5c/Bill___Ted-s_Excellent_Adventure_4__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5A4vqjxKdovZFGx06L7voF/11a093f676f2d68df77e356d34fd244b/Bill___Ted-s_Excellent_Adventure_4__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2byfNSaVyOTeSOFlJIDzB/fb87bd69d3be5aad73b09bd85a468f37/Bill___Ted-s_Excellent_Adventure_4__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2Ulvq0iXBjNu7rGsXEmgXi/4812b65c5c4384fd73dae69bf0cedc1b/Bill___Ted-s_Excellent_Adventure_4__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5c5CgYj5xJxzOt0aemRYbg/2fa3af8fcb629f7cca893f8a8090cbcf/Bill___Ted-s_Excellent_Adventure_4__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/1f4CFzBlMrPdIcSAN3A5UW/5d0dbfd884acc151b3aab54d985c9662/Bill___Ted-s_Excellent_Adventure_4.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/33P9vjUb5xIHLrPCNj0RAO/6d85f2dcb909ae9a4a4a94459be9aae2/Bill___Ted-s_Excellent_Adventure_4.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -513,16 +513,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2A0GwWLG1yhDIrn6jSh7s4/4c95f59429dccb8bec8b61c12c9e2dba/Bill___Ted-s_Excellent_Adventure_5__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5ZFNMVYRO0Lrh51YBkvEFL/f5958d768c3e2872e2bf572f4b0bcb2f/Bill___Ted-s_Excellent_Adventure_5__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7AdQe46hFthRwJrzNw0zCL/a299d82e760b53f88ccb038db06a5292/Bill___Ted-s_Excellent_Adventure_5__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/iydGWkZPmVwYlDxy5j6NS/ccfcf83c74869e381b774c73839691d4/Bill___Ted-s_Excellent_Adventure_5__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/9mYf7EXsp3m924BH9ceix/54b4da961015acd40e1fefd5aec5bf6f/Bill___Ted-s_Excellent_Adventure_5__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2eZuX5qWfMt3DZaoEWyiu7/383a04902b932a1bbdd33b752a9b1ff5/Bill___Ted-s_Excellent_Adventure_5__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/33ggPmyOy3RUSDFqo702s6/c41b09fa2553b8915083f1d617c20a39/Bill___Ted-s_Excellent_Adventure_5__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1RFQ9BnXveCAAjUaG9K9uw/a40aa570b26141d2d25d42dd8bbc999e/Bill___Ted-s_Excellent_Adventure_5__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/1LzDoje9gTh9a5bbzGGPv6/feb553a42b6d53e74c1c8c849d75e29c/Bill___Ted-s_Excellent_Adventure_5.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/5yVcFxh6ov1RroUFbljYiA/9ba2a680e86741d197d2c2a8cd30751b/Bill___Ted-s_Excellent_Adventure_5.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -540,16 +540,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2f2LdbhBkgkiUBXNbVd46S/44503d790aede7c6dc3644604764c21c/Bill___Ted-s_Excellent_Adventure_6__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/42muzrUjs3RpLYS6QbDUF9/5909f2af69e615fe09f8563b66274af1/Bill___Ted-s_Excellent_Adventure_6__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/71MY0WVPu9VtTS5yLiWtlq/ef5761ede2355535032638e224e5b32c/Bill___Ted-s_Excellent_Adventure_6__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/jqOldxjSOEFLeaSOVEEzl/0e6648058eaa1c5a224312b8e7babfde/Bill___Ted-s_Excellent_Adventure_6__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6NNQp1FvIQWs8t5zIRUTYh/089e679a7b6fb257f55956061d02737e/Bill___Ted-s_Excellent_Adventure_6__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2kPMsz0Ml4kSQe57Re1bbI/e92332a918c319e0a9ca4d4c98c6e4fa/Bill___Ted-s_Excellent_Adventure_6__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4wYbWslQKBS63jYDAlJWyM/9f853b9dd217bc195235ebe63f98717a/Bill___Ted-s_Excellent_Adventure_6__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1GZvfpz41weIEwhjCkEf8Y/e2a5ec588c0839cda19d3c7467e62f14/Bill___Ted-s_Excellent_Adventure_6__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/17S7oNtnKOUhULRbaniuvR/dde764e8796d4714b504de933f248d69/Bill___Ted-s_Excellent_Adventure_6.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/76mjNuudgvG9SgBDn03Brc/bfa625107f84b13ff3cb02f97b574943/Bill___Ted-s_Excellent_Adventure_6.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -567,16 +567,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6uYVOJBJ1VtlKkNrzkq2KD/984e2df75d1303851090389e46ff93ae/Bill___Ted-s_Excellent_Adventure_7__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1tenjRV5O7f1qTtLzsJTI9/0ca067b463f3efb4feb5b0ec42d5854b/Bill___Ted-s_Excellent_Adventure_7__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3kmAuJ5MZpDkMHk6JW4LpU/a62dd928952d42fff0dfaa48bc1c26d5/Bill___Ted-s_Excellent_Adventure_7__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/15tmQspKwXaZ8KoskjJXFJ/43e83d696693d8b5c996d636e25f71fb/Bill___Ted-s_Excellent_Adventure_7__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7ofiW7T3gJWq2fYO9LhUew/07254948a1530c9d84b93d352a54dafc/Bill___Ted-s_Excellent_Adventure_7__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2LDRlVgSDZQTbxp8GvqxRI/3cfba7677c8e49387237d29791260b0f/Bill___Ted-s_Excellent_Adventure_7__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3xbMNi5i8lJzCCK9XMwDr4/fc3dc7eb3a7d132bc397ed4886b06db2/Bill___Ted-s_Excellent_Adventure_7__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4qPWq5qpW7GQJLKTpRKqHe/e20f4ff565b068a67e9fa7e20d2c5d3a/Bill___Ted-s_Excellent_Adventure_7__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/33HFlFILGyalnjmEkpvWCY/c0759ef25427b93c4c45d437e73a2dba/Bill___Ted-s_Excellent_Adventure_7.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/6mRwI5gcWA5X8ylf6XkUFo/13c04279d8536e861f68283dcd104721/Bill___Ted-s_Excellent_Adventure_7.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -594,16 +594,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4tqPWKSxJzegtUoT4UjNxn/3b6cc40cfe550b60644a6d404f3c21eb/Bill___Ted-s_Excellent_Adventure_8__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7btf6HqIsp76CWbDvSlBe/644c91c6aef3a4f8be16c3c4bb568b83/Bill___Ted-s_Excellent_Adventure_8__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/63CSmhNJZTyfyPrKBbdDZK/ceb18da738adc61dcb69cd8481952a8e/Bill___Ted-s_Excellent_Adventure_8__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/A6vaXPqGgZaA2XMvbPZx6/ec3521b88ff3a1f92dda63bd837410f9/Bill___Ted-s_Excellent_Adventure_8__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/E6ijKhOMm2WxiYE3VoXRr/cb7cb77a3a56cd59f40a4ac2bb84dce8/Bill___Ted-s_Excellent_Adventure_8__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1valTY4PFPaU8MiGaXupOd/223c8c74b74a4dbe9a855dc74c027fe2/Bill___Ted-s_Excellent_Adventure_8__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3SPKiroAvOyTDGpfPndKKv/042f804538a3587bce9720774c525760/Bill___Ted-s_Excellent_Adventure_8__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3DtlUzckQmKzeZuLLbQTtA/b1af2d0b014d029c204c0e4c0803a1ac/Bill___Ted-s_Excellent_Adventure_8__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3uNPMEf8STFPBiLLO9Fs4r/c2dae7884829ef72c47f3e79b86abe2b/Bill___Ted-s_Excellent_Adventure_8.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/1H1Q1tC7IxuKeQceu5uUWw/6e5b21c9d9f5dce31b2a2c90cf396d69/Bill___Ted-s_Excellent_Adventure_8.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -621,16 +621,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3zyTVbR9MLzdFvvc9pGMXl/66de82275942eb8c9845ee2a941e5c0f/Bill___Ted-s_Excellent_Adventure_9__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3tqikFZY8VChjoJow4yK2a/87ebb3ce541a18bb58b0b73d2537e4a6/Bill___Ted-s_Excellent_Adventure_9__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1ndVnOtfbb60socmj6iK2r/a981fed95e2dcffd654b30ad5b075c30/Bill___Ted-s_Excellent_Adventure_9__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4EXy401TERj61bszmbjMPw/c65770ff1b46549dca15de7f47dfe8b3/Bill___Ted-s_Excellent_Adventure_9__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/673jiXzIdFCk7hPocgI1GQ/5b9d262de5374f1baaa1148fdef47363/Bill___Ted-s_Excellent_Adventure_9__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6ASbiOSrrhLCMS7WjW4OqT/9bb386a10325f073cd4881e578787557/Bill___Ted-s_Excellent_Adventure_9__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2wgqKfZovELAGDCUoNjS3K/c266a8caa8916617aa04fb91fd6d9296/Bill___Ted-s_Excellent_Adventure_9__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6UyP8w3ES3VynuUBKzz0e4/cd160d8bffa46409be223f8246a8d2e0/Bill___Ted-s_Excellent_Adventure_9__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/6uojJK5yZl7LgXX69MzjBT/84fc0e09784eb36c436a903846ce43c5/Bill___Ted-s_Excellent_Adventure_9.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/4yrvOqrptFw4IfYh6lgLza/b5201b62bcdf1fb3de45e320ad627bbc/Bill___Ted-s_Excellent_Adventure_9.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -648,16 +648,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/28JY2Clhl2nr9EtF3bBkiP/16c630b57251829515ea1137b3187364/Bill___Ted-s_Excellent_Adventure_10__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5v9PHdiJEBb2kUtJSYZpPT/3e6fa4f86feb1df554e77b5506033a83/Bill___Ted-s_Excellent_Adventure_10__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2Rid88Z23DfEeh53YiyGON/7e92286b542d3bbcc213a9584fdcb36c/Bill___Ted-s_Excellent_Adventure_10__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2TAsPD6zTtHzolbOLxZB1B/8ab96da2aa73a2b8f4683ad9e8c9766b/Bill___Ted-s_Excellent_Adventure_10__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6ajZl70lN0RXDyZrWxbVQc/2ef3645a6aed7bd32c8e41a628ab60d9/Bill___Ted-s_Excellent_Adventure_10__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3YwiPuPHNPIiUSQd2QGk1N/22f1aee23f3939d818fecc7bcdbd739c/Bill___Ted-s_Excellent_Adventure_10__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4zbiUtYFpj0HFww8Q1ONn/a42a70f25d79ab6de0a0710d7c5a8ba9/Bill___Ted-s_Excellent_Adventure_10__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/78838kSbDMZJdKfLlLKmin/7078c069f1bae4fa44c91a1157f1d448/Bill___Ted-s_Excellent_Adventure_10__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/kL996dx2O5z2juSdfMNYk/23e0a5114b408aca9d3f469925036c51/Bill___Ted-s_Excellent_Adventure_10.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/6fDZAQE06ID4k2ag4KEeH3/178039c3bcf93ec3037a0830584ed5dc/Bill___Ted-s_Excellent_Adventure_10.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -675,16 +675,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3WGZugyDYPkbVCATncCMPx/8dd374b84412595647c71e722ee98d8a/Bill___Ted-s_Excellent_Adventure_11__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/MJ99pkHOS10QgkMg8zGGB/d673daff36bc44026c4682e5fc8628e3/Bill___Ted-s_Excellent_Adventure_11__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5mK3vUgWwifhDgJ9wxOtv2/b868addc875e94740fa48647c524b202/Bill___Ted-s_Excellent_Adventure_11__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2HKeTxl9XclQaC7UaP8pYh/6063a11031d401a7e2dcefc72deba09e/Bill___Ted-s_Excellent_Adventure_11__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/37ZE4NmVXnvEt5XstBY0lY/8320ba39c57d49d27d0ddd394dc00a3f/Bill___Ted-s_Excellent_Adventure_11__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4hxKKvjrFwusaXOR50l6nH/d46ad04fe3f7df332c1d23dd85838225/Bill___Ted-s_Excellent_Adventure_11__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5X0JED1ounYIJnFingVXWx/ff9a026ca7a8ecc67a61537c9705b6d2/Bill___Ted-s_Excellent_Adventure_11__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6494TjiNTNhsne2c9rqRyV/f373a703fd18d6e54a652d6c27d6823e/Bill___Ted-s_Excellent_Adventure_11__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/J0KNuPuYfq8uL8Sqpu3sC/faa2bbaa024abbc445ca81c8ee6aef52/Bill___Ted-s_Excellent_Adventure_11.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/1NFKx2kpxdnDpKCIcBx3Bf/49e3dfb2c4ade33b79a5680df0a9dea2/Bill___Ted-s_Excellent_Adventure_11.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -702,16 +702,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2yhnPn8nBs4PzT954c6f0i/5fc04c763554c7600af52af00fbe179a/Bill___Ted-s_Excellent_Adventure_12__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/YPDfzUxf3Zf9zAJzpeQlR/e54d13fb81cfca457963b3dedf5bb1e8/Bill___Ted-s_Excellent_Adventure_12__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2hrHx2mNxXSQ8anGtsGly1/ae176228e4aad7e13034833f845ce89f/Bill___Ted-s_Excellent_Adventure_12__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6kKOsdBwbPlhmfsLRfMe8/95a2a0dbbc403b869945eb8c500f47ea/Bill___Ted-s_Excellent_Adventure_12__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/C8p3XWSLyjzAbAurFeEwe/5fc4daa350ad4bc3f6957fc087bfb234/Bill___Ted-s_Excellent_Adventure_12__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3qBFaQrbP4zy2T6Z3Ist1O/236869a3b001741a1d0b89ae949a690e/Bill___Ted-s_Excellent_Adventure_12__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5aIVc9tiAtAF8gbXKyX18Z/2e7a85a344083f19c767302b52e04810/Bill___Ted-s_Excellent_Adventure_12__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/rMmCVk186j8JkrdgTs45T/2d3eff2d177ed2b4c6b68882d57be95e/Bill___Ted-s_Excellent_Adventure_12__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/qmez2TKfLHL0Fiuh16lCQ/df24de02071ef42cf44e1409fd2b6a29/Bill___Ted-s_Excellent_Adventure_12.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/55f8V0pobUd3vg7ky4duLc/a23a307a9b56a80ee20c99242d96231b/Bill___Ted-s_Excellent_Adventure_12.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -729,16 +729,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1jehndnD3a6tzQBvj1HHDg/4896b6c178607c5db72dab183ecbf938/Bill___Ted-s_Excellent_Adventure_13__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4uPc6R2NWuZF2u3WRWdagC/20a71121f2a92b65158c40d33fd6f0ca/Bill___Ted-s_Excellent_Adventure_13__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/79EfbcAePo10UhsV1BV1Yi/e0fe907607eeb4be552df8518e1205d7/Bill___Ted-s_Excellent_Adventure_13__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5Ejwd2sFai2KgGRo7yZygj/149f294c396d9a5b80a6058c76524f6f/Bill___Ted-s_Excellent_Adventure_13__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1CDMYryN6IFn8n0BA2gz1f/b44242e8c0ea00ae264704bc5dbcb544/Bill___Ted-s_Excellent_Adventure_13__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6AzKAiRWPkdH5y27rugXDD/971dd66aef315f90317c0cea6653b361/Bill___Ted-s_Excellent_Adventure_13__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3onAADsSFdhPv6aYfgvhf9/ccfae6f8a4b84f2cbfdd758b7d10d092/Bill___Ted-s_Excellent_Adventure_13__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6KBbNOz85ttt3p2CaZjQ7j/76e924edf02d8ae0bccca1ce38f145f7/Bill___Ted-s_Excellent_Adventure_13__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3YVn949C9RmRG3lvga5KSd/adae50529d3ce50f1b2190e88004273c/Bill___Ted-s_Excellent_Adventure_13.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/7lJ1SZwnN0rbymAYXP3DAd/0d34b86ed0e7704b5755fa37776c1b0b/Bill___Ted-s_Excellent_Adventure_13.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -756,16 +756,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4ot1gInzTOKg8dWN7K4BJm/0b29e3562faa8aaf16c3ce2943a32e5c/Bill___Ted-s_Excellent_Adventure_14__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/38A8RVT5ceyZMqdynUlZer/5f61f22e87ff6f0b14a03598f5cd5c22/Bill___Ted-s_Excellent_Adventure_14__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7cZhTDulCcBKHCVloiVIiK/97ac873f8da9129c1e844a3f24db8b42/Bill___Ted-s_Excellent_Adventure_14__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/znEX7BYNSuXvGWSFmIuFd/2497a72212822aa628fbab58c39434d2/Bill___Ted-s_Excellent_Adventure_14__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/60Aub2jeKEzLjcqK7Mt8Ii/757e9963e2f11d77cb3f9eec65e2a1b8/Bill___Ted-s_Excellent_Adventure_14__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/a64usIB3LrwYq8qkjPSPK/86a5a744bcdb430344df98af5bfce0c2/Bill___Ted-s_Excellent_Adventure_14__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/cGaFImNS2oBrqoPaW4HCw/05089e08b54315c226a97358fff60737/Bill___Ted-s_Excellent_Adventure_14__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1k8Zz7s5y5h8tDf5UfE2HN/71e5b6ea3249b67498dfdc11a980b082/Bill___Ted-s_Excellent_Adventure_14__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/1wbmXlpFzpr6Ow99YjP5eE/42b09ffd3c8146088ae578e8120bb348/Bill___Ted-s_Excellent_Adventure_14.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/7dCDx1VxC9XyoiTqeMhlhl/880f077f417d6c2ae64f3f229b03a2f7/Bill___Ted-s_Excellent_Adventure_14.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -787,16 +787,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7i2QuGNRAivglVm0XFovF6/dd2f335d5deeef90ccd6bda34ddb3111/Bill___Ted-s_Excellent_Adventure_15__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5N6YsPy7XswBUmHBca9Meu/2d5200c00b31d66ed6b7cf91dc918684/Bill___Ted-s_Excellent_Adventure_15__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3tf9BwRqosb5Bzrumtj3vC/b9b1e66cc2ae75c8b8a351155b4ae930/Bill___Ted-s_Excellent_Adventure_15__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5jCFUxfKEcpAdHyszI1vcS/f03d67d405a192f19a2652da8989d1ae/Bill___Ted-s_Excellent_Adventure_15__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/R4fZ136ofNokohFdalyij/8108098b7ba43cc499d252c16777e42b/Bill___Ted-s_Excellent_Adventure_15__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6QdJn5qw7YhoOt5lSwWzn9/bf5ea913f980d3cef01c7f766292d827/Bill___Ted-s_Excellent_Adventure_15__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2LX0MRThue5ybJ93BynLNe/191a98d51e8111799a4438bc5d2f3f39/Bill___Ted-s_Excellent_Adventure_15__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/67s9ACXlbXOsiZL3XxocCw/78b32639d0290dcde6b9e580e3ca68d5/Bill___Ted-s_Excellent_Adventure_15__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/4lQSTQuMo10tmVaiEwTlAA/12de16ae2f834aec8559b1c7ebaa7835/Bill___Ted-s_Excellent_Adventure_15.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/2IrzdpclMTporCEnpAx6LM/9da153019e2b721702a8cefc922ec81a/Bill___Ted-s_Excellent_Adventure_15.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -818,16 +818,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/684TexMBaVEEjaBFzvZ0Lm/a2d2ab897fada794753d8811d845aac8/Bill___Ted-s_Excellent_Adventure_16__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4qIyjXF6wcNd5HVQ8rAdAN/61d3d68cc8a1afa0f0e2729099665eb5/Bill___Ted-s_Excellent_Adventure_16__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6l677HG7cKLvsAhFo0eW3a/926ea323a48c7d7d0c13d11080798611/Bill___Ted-s_Excellent_Adventure_16__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/10Xk1OaWF98kZiEY2t9LoZ/9e74d40af3bd4ce02159a7a925440acd/Bill___Ted-s_Excellent_Adventure_16__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1ksZvEIK2HCLlCOtlmvPd3/f205b634726ece8bd886ce0961c58f68/Bill___Ted-s_Excellent_Adventure_16__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2DEXVqlpo8Bxwp3opGJdXy/8b5fc8055e6bd1f0c7f105efc6a35488/Bill___Ted-s_Excellent_Adventure_16__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5ewrsQaTQ43TLbLKkd6U8Q/e8f2346e99986209fde8f3f9bbcc1d81/Bill___Ted-s_Excellent_Adventure_16__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/20zEOpp11hqM7HCZnPIqw5/1914e7a024ffec6ac2284f01eff0c3fd/Bill___Ted-s_Excellent_Adventure_16__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/5RqVPpMKim0BxvbGJYSHOW/fb6972574eed8c2d13f9a8724021ee49/Bill___Ted-s_Excellent_Adventure_16.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/3ghqhPorovZfsxF84jrIjp/0841183143f1cce0d74b1e6e14f71376/Bill___Ted-s_Excellent_Adventure_16.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -849,16 +849,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/32A905U7T9Sc2GXfkussuR/afbb468349f746d017f7fcbaabc53371/Bill___Ted-s_Excellent_Adventure_17__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7N1ITK2MM067MzOfj3HT3Y/0f72f77fb6535e2b4044fbfda40f5438/Bill___Ted-s_Excellent_Adventure_17__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4p2WALkZ1L1ST9shCCvhON/fa1ee1c60ccc7d02f49fe031828c8b4a/Bill___Ted-s_Excellent_Adventure_17__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/12863ROGj37pm9HLHl5EIc/1cafe7513800d95009900bd8a79c8ca2/Bill___Ted-s_Excellent_Adventure_17__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6Rnav67UznG2z9uAgB3pJL/e49146c6d92b3a97a6182cee9e024cf1/Bill___Ted-s_Excellent_Adventure_17__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6OuOPOFUu9L1PjqKZdQbmK/b1adbbe77432c884afd8dc2011c71941/Bill___Ted-s_Excellent_Adventure_17__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7gfgcSCO7MMNVKIkMfVfoc/c708d9d1babf414d694ebf1eb78f01b7/Bill___Ted-s_Excellent_Adventure_17__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6R3b1HRGshp8nillOGqxbI/1198e75ae4b3abf01eb1fe1696f79b9b/Bill___Ted-s_Excellent_Adventure_17__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/4cpfn081bn3oDBt71uXYVe/f9c58f781f4e1400b472022a07838ebf/Bill___Ted-s_Excellent_Adventure_17.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/cUYrA45bUDCNnYovQ8SdT/d1fe9352fe3b544ddf25ab5ba9535dac/Bill___Ted-s_Excellent_Adventure_17.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -880,16 +880,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/cHW9c3qDM7mnkjwlL81p8/bd5daf40517a88b9fec300232eb2f228/Bill___Ted-s_Excellent_Adventure_18__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/oFuA3PhEdDYP9a7OmWb7f/9a2330be29768d6b26b9e7769aa76012/Bill___Ted-s_Excellent_Adventure_18__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7GDLk5QO8yVlp3WsumTIBb/41e6e826e4a40663190983a3aa0d8c83/Bill___Ted-s_Excellent_Adventure_18__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6wbfLZzRrBNNLpoAEK7pjQ/2389abc8a28977ef92544ce56e4a87ea/Bill___Ted-s_Excellent_Adventure_18__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1eremckgH8xo29TlX4niA7/6f859a91ed1e5a476377afe718a3f9c7/Bill___Ted-s_Excellent_Adventure_18__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/33rPuPJBPgNUljQE1olcbe/b58d226a0774b8910eee6e2528687f7b/Bill___Ted-s_Excellent_Adventure_18__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7rp43E9TYSxGI1zyFAziIG/6a57a5cfad56d5b04a1e4d8580cdeaee/Bill___Ted-s_Excellent_Adventure_18__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6pfilfjqEHJGT1T4a2FtO0/8770803143bbe7b5952c07ddf17d8dcb/Bill___Ted-s_Excellent_Adventure_18__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/6ExTKPfsJGl9NmbVO6s2eQ/8fc5d7d0fcd3f2a71c7fbcb196e948dc/Bill___Ted-s_Excellent_Adventure_18.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/1gDGZsvovZ6fMvWQp1qtOa/17b831522b3ad14e7fdf892d1c61a3bf/Bill___Ted-s_Excellent_Adventure_18.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -911,16 +911,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6igQqIHhwLcOLNSh5TuVuG/c6892382fa1aeaf0c8540b88033fa9c7/Bill___Ted-s_Excellent_Adventure_19__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4CvSBUi1Cr521zMEDKT8B7/d31ec10a83d763830f94407641200230/Bill___Ted-s_Excellent_Adventure_19__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5keqlUiAPbkM5mM5axFl4U/e956d8379d292a2e1278af4b4a288cdb/Bill___Ted-s_Excellent_Adventure_19__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5aMLwfFoRIkaJzXl54Czao/376e4c9239c7b7900855dc2ffc33d8dc/Bill___Ted-s_Excellent_Adventure_19__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7zdU6yJ6eNE8ywCQFLsB8X/5ee8321c86eeb37093fe551f67228c1b/Bill___Ted-s_Excellent_Adventure_19__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5OXPhVXfHwo0vUeUpJMr0j/1ea5afa20017eefa9862b71e04b20e01/Bill___Ted-s_Excellent_Adventure_19__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/ZMOLyS5FCCIuuUQShriZa/e72814e2a255b89d0eaff6ae7e41de37/Bill___Ted-s_Excellent_Adventure_19__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6New4lELrsXEYfiTR42B82/116a0d76d26695db9ebfe492d0604006/Bill___Ted-s_Excellent_Adventure_19__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/GVE6Upfr9ikM6HxRgCAXI/ccf3ca23f8b388b25a78ed852207841b/Bill___Ted-s_Excellent_Adventure_19.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/7nb45KLeJ80zsBHfAEymO/cb83d008c75da0f398dc5ef8050cf2be/Bill___Ted-s_Excellent_Adventure_19.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -942,16 +942,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/cJvoTgO2H8q5aVkEQPqBj/0df42259153ff98b41c3289bee93c1c6/Bill___Ted-s_Excellent_Adventure_20__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6yJBsAMteQs6qa9tLHphY5/932a623d2532fc0b096e2a838524876f/Bill___Ted-s_Excellent_Adventure_20__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/68g1qi7zhcwIscgH1m9iMW/e0007e939b3ff114293f2be5253ac154/Bill___Ted-s_Excellent_Adventure_20__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3tb84JP5m9rLqwwUH9f0eX/ff051aeb44ac3448223e89b3f7fcce8e/Bill___Ted-s_Excellent_Adventure_20__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3cp4QLHbnMUEN4iP7lyIIg/469cd4ae9a0ef9e5e18e2d652f2c721d/Bill___Ted-s_Excellent_Adventure_20__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5hID5JsX9xX7vl6ViKPEUg/175694dee5ecf4136d2ac5ca83e5e301/Bill___Ted-s_Excellent_Adventure_20__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4SQB9EzVBZShNYVLEaFERj/b97bc982a92ad74cb17e3b08b6b3bef2/Bill___Ted-s_Excellent_Adventure_20__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/38jgnJDdzzJVyH71NFItjj/93617e002d5ee5ef71d111fa4a2c97ff/Bill___Ted-s_Excellent_Adventure_20__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3vEZd1DYn3tw1j1KeCK0s4/8696e9565ed67fccbf45ddc0a9934b2b/Bill___Ted-s_Excellent_Adventure_20.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/4WPO1cyEXQlMD0HMfIzVO0/1688571b20e9baef05a37f75455ef5ea/Bill___Ted-s_Excellent_Adventure_20.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -969,16 +969,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5szP0cEphn5yoiFTjyp7am/b0ae6295347297f263ee836632e52c1b/Bill___Ted-s_Excellent_Adventure_21__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5MTyn45vg1eRfePcj62N0y/4d12081e52973e58d480988edb0e5853/Bill___Ted-s_Excellent_Adventure_21__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7rfd9GpcT3YK6oKD6dGwkY/fc8b807d513dc1404d70a0a91a204aff/Bill___Ted-s_Excellent_Adventure_21__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2TYYkHaftgRCyl63epwqcH/183df4f16e1c0f1a67c00b21fcd39082/Bill___Ted-s_Excellent_Adventure_21__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5sr3kfPbOkd1mZE0xmEWUP/ddb4387e76bd6d9d42263370bd77ec4e/Bill___Ted-s_Excellent_Adventure_21__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4piBHDbjXt8Ig58tEC4Bww/bb68d8b2ca3e69ab61eb4a71ed70f42a/Bill___Ted-s_Excellent_Adventure_21__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4B4hP63uQcf5LSkN1nVaCJ/c4190da5b5df3ba5e745cc0ef226e33d/Bill___Ted-s_Excellent_Adventure_21__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4osuRQXoRWpd1Q4S9T3cmb/3dde012db8b5889e8dd90e1b6ca2f655/Bill___Ted-s_Excellent_Adventure_21__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/7ui9MG32flxArzIs3ldFWG/ee5e82b5b93fb105922c617de5738188/Bill___Ted-s_Excellent_Adventure_21.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/3scbcDrmtN6kE6F3F0s3kX/9bec84658265dcfed2eb8123166b9e85/Bill___Ted-s_Excellent_Adventure_21.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -996,16 +996,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5Vm6FKWMpSoDtgrYU9YIWs/93f65f20a38a1128db3c30b88caf6ec1/Bill___Ted-s_Excellent_Adventure_22__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7hA1DhskG4ihfM9gWfdab/1967038db6a13094c41d5ce2b97a33f4/Bill___Ted-s_Excellent_Adventure_22__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3AtT0STILhdLGCwz9WawyC/8622380553c2d495f16e818f4e5d8f0d/Bill___Ted-s_Excellent_Adventure_22__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4tSwsGcXiOZKJ9swC6gdtD/1ff1944cea165968d26532478dae392c/Bill___Ted-s_Excellent_Adventure_22__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2OO0ofPTlICqwaSnToZmA/6c9b8b7662c43313a88a27e49cac7a08/Bill___Ted-s_Excellent_Adventure_22__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7ICJy7vx2yxMZDuQS1NVYN/f8bc3f1b1e746c8ee4053807b08602fb/Bill___Ted-s_Excellent_Adventure_22__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7AfENUSQZbQ7GCbq0JSg0U/763b6d66bba14710ca77b74cc1c548bb/Bill___Ted-s_Excellent_Adventure_22__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/PT1GRffk58Bcep3jjuMp0/3238adaa2677e9fb420d0c0d9f53844f/Bill___Ted-s_Excellent_Adventure_22__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3vBIAfwQcSczO61u4Pz0Pg/28c03aeb8c14fa6131e53ed1f6ec4235/Bill___Ted-s_Excellent_Adventure_22.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/7jsJxL8zECL3ctBgrCfPPA/a7b7b707064c1b38eeac1e934024c618/Bill___Ted-s_Excellent_Adventure_22.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -1023,16 +1023,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/71vx9KsYl7F0KjoZwg1lvF/6dd419f25db5ceca41098655af9da361/Bill___Ted-s_Excellent_Adventure_23__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/j4lPynQiB2jkLjkeo89Wb/2c413b4d831565d0f513a6ccc3a4f63e/Bill___Ted-s_Excellent_Adventure_23__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/eEphR1DYMp8w0aw3dsmMO/e59c5958f92d8939c1ec4c4c68488f6d/Bill___Ted-s_Excellent_Adventure_23__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7iM4wg0LjpKbdJBevlnvBv/7b3160dfc974e04fd75390c93bd175f3/Bill___Ted-s_Excellent_Adventure_23__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2CdChaDqwrXoGAWoJoUo1n/bb69bdf01025f1889a3c91cadbc6f151/Bill___Ted-s_Excellent_Adventure_23__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2T5cXjTYAUYSemIbV5JvQy/94f31f1795ab4a7d40da50bd1b9e6f9e/Bill___Ted-s_Excellent_Adventure_23__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6hmQsQ3GQD28cn1zYkE8Xt/a45e37c8e0cd815ce3bf692def067630/Bill___Ted-s_Excellent_Adventure_23__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5ym3Nv7LTDKX8E9a37P0Ue/b586831a26c1adeae47571ad5b0a32de/Bill___Ted-s_Excellent_Adventure_23__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3IHoVL9ov8R2k9QNeQ44TQ/3b431e863cba2182220943152d1ed27f/Bill___Ted-s_Excellent_Adventure_23.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/1j51Oz8OZsOF6z783My6Gn/43ded5ea9a9e71034ee94e606e0c0abb/Bill___Ted-s_Excellent_Adventure_23.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -1050,16 +1050,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/64dIUXgPRPgxKoTMEGNgIT/1770c1ceb07810e84a69b613176dbab4/Bill___Ted-s_Excellent_Adventure_24__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6yGmNt6EumyOyVQbvebtGG/928cb13560d6be091571755317b436ee/Bill___Ted-s_Excellent_Adventure_24__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/skJAbxCAC6TCQrBb7WNwc/c0a3c4ee0e6a6f94e1147ea0f7c6d1fb/Bill___Ted-s_Excellent_Adventure_24__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5rrK2xYdbPnOaEWK18aJCX/f7ae120db7b106c5a683b05633752128/Bill___Ted-s_Excellent_Adventure_24__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/17r2AqvNROtts54L6kwJdY/eba5b9659c2744aa6d7c47acc9259eb1/Bill___Ted-s_Excellent_Adventure_24__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7tq1xtOvwZMlYRGsneX6DT/4e0856c74beb71fa2f26e786876675ca/Bill___Ted-s_Excellent_Adventure_24__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5JFESXEuGqp4FaWZQvH8jQ/0c77fdd970ecdf66a8ab454b9fbfa6b5/Bill___Ted-s_Excellent_Adventure_24__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1aRzAhfjv1jqfPo0IrQbvv/1db1bb3fca7b3c2e807ca496a5d29e9e/Bill___Ted-s_Excellent_Adventure_24__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/5HiXIN29VkTmgGczywFOql/af648947cbd22f64bff66a433884a55c/Bill___Ted-s_Excellent_Adventure_24.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/7rpbFu2YydR2ZBzDaRkULn/4e52fde6070f053b139869ad597f3af5/Bill___Ted-s_Excellent_Adventure_24.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -1077,16 +1077,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4KhTebOUOreVDixI5aOjtP/34db52549f79f20d11fe3c52f5c3507c/Bill___Ted-s_Excellent_Adventure_25__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2iSbKHTUaMyv1rgmtMBj0J/3f791099cf75446a2ebc4e57bb23aae4/Bill___Ted-s_Excellent_Adventure_25__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/30XFOZ9v8f3wUeIF44gVNP/286ccfd1a3440f1b02b422e22a524b92/Bill___Ted-s_Excellent_Adventure_25__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7EF1DfbFZYtauyGylHPOXs/4deae7cf749de5f2c5adda3af159afbb/Bill___Ted-s_Excellent_Adventure_25__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3FVzDbsJSklyy1sQW3dVnS/e122ec17dc63c2cabb372080ffd48c14/Bill___Ted-s_Excellent_Adventure_25__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4bVrlJQNHXs58SLg7pXFcr/be900b4621bc6d3749f284382d0031b7/Bill___Ted-s_Excellent_Adventure_25__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1xW0DZaQaaHW29VB03CRUP/576151ea26706f58c838daeb36648035/Bill___Ted-s_Excellent_Adventure_25__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/61bjaN8ySPXzHGXRw2SBa0/ca78248d89fdce2af6b120c6040c89ae/Bill___Ted-s_Excellent_Adventure_25__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/4adlPDl0UEbhCE3PvBNods/72b6c40c9b44d063e39e93622a1822fd/Bill___Ted-s_Excellent_Adventure_25.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/25oU7n49vARpzktHL4znAm/d6e5fb7c42605f9932ad862e1c9ca42d/Bill___Ted-s_Excellent_Adventure_25.mp3",
   },
   {
     movie: "Bill & Ted's Excellent Adventure",
@@ -1104,16 +1104,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/hqTjk20ccONlGV78tKM2G/411dd556789bc491632def54d470850a/Bill___Ted-s_Excellent_Adventure_26__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5JAfFVn742K7CKTyngiDfz/f1bb212b6ea566a933ad6bbabfd0a540/Bill___Ted-s_Excellent_Adventure_26__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/Yx2zFp3aTN7VYFI0RU0Gl/8cc901d8b7e0d2ef1f468c79170917d6/Bill___Ted-s_Excellent_Adventure_26__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/ocz0WDvTf0Uyd2tcuvP5n/90810aa4938a6ae646b943dae5905d98/Bill___Ted-s_Excellent_Adventure_26__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/356vFc3TdhhS3SegdjK516/1a8cc1684e670276c493a5818408ef21/Bill___Ted-s_Excellent_Adventure_26__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/18E1iFGhJSK5bywzA94UZO/3471c992e7ac93dffad65146ea3a4fa1/Bill___Ted-s_Excellent_Adventure_26__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5Pfjm1q6AKB5iDWLHnVCPk/b3a166bb401bbbea0b55ec83302b5ee2/Bill___Ted-s_Excellent_Adventure_26__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6pl7L2BRnvb0nvijO65jBg/8940a36890bbe8897e189cd8e02dbd77/Bill___Ted-s_Excellent_Adventure_26__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/2kAwVavfR7oAoG4LHT2MSv/039bc5f9759ff38874dbe2bf4ac8bbc0/Bill___Ted-s_Excellent_Adventure_26.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/1ZUrcBAd9wUHW7B7xUao7s/ed9c68aef08424c99693b8851a4a6cbb/Bill___Ted-s_Excellent_Adventure_26.mp3",
   },
   {
     movie: "I Love You to Death",
@@ -1382,16 +1382,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/73VTc4yLMxLAwn8ObbTToB/2e7b6d323a965628558fdf2ffd230023/Bill___Ted-s_Bogus_Journey_1__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/F2A2SRQBJRus0MkwXSpLU/c01e87442c03da0a7824388daced30f5/Bill___Ted-s_Bogus_Journey_1__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/77wGOMoNQ0GJ2P9WlY8jcV/7e690c75433022e929ce9db08d7a6c4d/Bill___Ted-s_Bogus_Journey_1__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/yAnbTtCqZyCbF427lhJdh/7814b37897b542156e2e48475dcd6990/Bill___Ted-s_Bogus_Journey_1__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7dqiU1MqY7R02iF7zQ0H1F/3ce4fd3560519796a60080b1ec0d1d27/Bill___Ted-s_Bogus_Journey_1__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/37uggVlgkhOxLqOv4WXzM8/91a974d1fea465e1a789baef3a9b076e/Bill___Ted-s_Bogus_Journey_1__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4txgz9dYQq4vjT8srWyydx/90d478aeb2f5ea4bc3c5ca44646d3877/Bill___Ted-s_Bogus_Journey_1__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4ACHoN3YY93wdySvJMRiAm/e0620c016ad527fd8403b338bc70a425/Bill___Ted-s_Bogus_Journey_1__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/mEzW1GRWRKF7d8Ciy6fNp/46fb22dc3c02db963c31fd8a6f91cc06/Bill___Ted-s_Bogus_Journey_1.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/41JASa3Cpt1tIJlzwDJZVt/961d2eda6d296d60725ebcc221bc5d0a/Bill___Ted-s_Bogus_Journey_1.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1409,16 +1409,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4o75i8CggliDS7FtTXu3a8/dc17f14adc023ce15bad0560f46244e1/Bill___Ted-s_Bogus_Journey_2__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1OIOnXCucq6D1DwSY9IfRH/63d043c1ff4ed4b37eac88d2bc3a894a/Bill___Ted-s_Bogus_Journey_2__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6McYUQukol2msBZoeXlWlR/76f212ab1200d8fa866524d20e33e7af/Bill___Ted-s_Bogus_Journey_2__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/13EEZqWE3B4xyDXZEXCthT/ded02bc3df6b5b0ead1595e152524b2f/Bill___Ted-s_Bogus_Journey_2__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6e41CkueCy9ookE5vxGM6x/0e9eb64876c8dcbbf5d2dabbd4884db6/Bill___Ted-s_Bogus_Journey_2__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5BcmPb4g5XZcX5PtccsaUq/86204f06224dfe8d0869ab8ed133ecfd/Bill___Ted-s_Bogus_Journey_2__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/JEHLdg7k97vwLSBP4UhuU/2798d4c131a560223eb039a41bea392b/Bill___Ted-s_Bogus_Journey_2__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2raWDIQLicjN2hPj0mkzeB/43346c9953f4fc6268645a87e194097a/Bill___Ted-s_Bogus_Journey_2__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/6A1NmZVkqOj8ENjYOS2EcJ/293e0f7907ad6608ea5dd4078dbd3d25/Bill___Ted-s_Bogus_Journey_2.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/4o2q05vi6yCkeOCb6k3f1k/4ee7ab34055200110afbb9f5d2b8b27d/Bill___Ted-s_Bogus_Journey_2.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1436,16 +1436,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4x1Ec40DFVXww711eWSK38/bc4e8dd8b98065f799823d948fd4efa4/Bill___Ted-s_Bogus_Journey_3__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/56C37Xw7idWFG606dgN5qU/3b65a1cc04589326f6ac6be30b5f0cbb/Bill___Ted-s_Bogus_Journey_3__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7yt5qiuwqhXJGZEWhR7kQD/0f5e58765580427eb5fb6cb66898a978/Bill___Ted-s_Bogus_Journey_3__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5Ug9CcIUQ062AOpw1VM0eI/3fe0dca1866df6fe31fc7fa9903eaec8/Bill___Ted-s_Bogus_Journey_3__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2BWYnUXeKkMatwILknmdQV/af22c9101295b8e3dcdb9cc797127a3c/Bill___Ted-s_Bogus_Journey_3__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3WvoC3XrObjOKhca1QtYtF/e00f2aa95d4abb607b9532fe4e999330/Bill___Ted-s_Bogus_Journey_3__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4BGlaCjQ45KnEOQDJZC5yj/7b3324f19a56387cbf66ed46ef8449db/Bill___Ted-s_Bogus_Journey_3__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6JiSqotsyR6rEQLFwa3p8H/932389bf78c89eeea53484c267062d3a/Bill___Ted-s_Bogus_Journey_3__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/4aoA49HizOLCWSIDt9Aosn/ae0eec571c58bfb11dba37b5dbaffc5e/Bill___Ted-s_Bogus_Journey_3.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/2P3X5E9zoiVaIdVKG1gyyq/b8606aaebf18f2fefe18b46f23251f17/Bill___Ted-s_Bogus_Journey_3.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1463,16 +1463,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6WLN4UQMTYDZsN0F2SWAvn/e553026e510a6dbad1082f3c57b133de/Bill___Ted-s_Bogus_Journey_4__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2d9rsf9nfVE6hhz69qgUWQ/2d4ef93242ce36f758c38d3213b69d30/Bill___Ted-s_Bogus_Journey_4__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5qtjpKQnn2W76sZqMefMTk/b1e047620209c5a9b49c60f72e37e0ba/Bill___Ted-s_Bogus_Journey_4__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4C01GBjvd0lK7xBkGk4x5J/395bab3b683d72b36453735b92ab5421/Bill___Ted-s_Bogus_Journey_4__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7it2d49WLJLoM1WsKowI0Z/6565adda9f6443232251f3ac32be28f0/Bill___Ted-s_Bogus_Journey_4__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/77pAz12wcEvTtkGJfGPro7/a63027385c973c9e01a87d6c8bdffd5e/Bill___Ted-s_Bogus_Journey_4__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5svxpSZHq7mkudqWFwR9M9/f9a47e7ea43d8aed38de8ef4839acbbf/Bill___Ted-s_Bogus_Journey_4__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4ZbkqFudeSQhaubavfJTtQ/a300b16aaeb12774861f3f374102cbf4/Bill___Ted-s_Bogus_Journey_4__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/2vQilVoyJWAPdGZVYCKGWT/e0d3a26cf622a78a3354c35822223053/Bill___Ted-s_Bogus_Journey_4.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/693UlQUDc7jrIqXJl5TtmE/4dbd78a818a50b3e5a1e8a6896d14235/Bill___Ted-s_Bogus_Journey_4.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1490,16 +1490,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/XQNK1RxMhWyjnlqmvD06l/b31c3a5e7ca39001e42fe42e5b1f3b58/Bill___Ted-s_Bogus_Journey_5__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/xjDdVSUpsdZ0qAR3MJKTt/27e8ec7331e68501361faeda3e6788e9/Bill___Ted-s_Bogus_Journey_5__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5wL0nhvEc4MesMf0jHZbnv/cd954b121c32b05b308a81d16578bf83/Bill___Ted-s_Bogus_Journey_5__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1TBzFIWmJG7SCJQ8IvMOxB/b9d0760fad139947878bdb0eb119c4de/Bill___Ted-s_Bogus_Journey_5__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2Pnr1R571sehk90eUdXugj/4dd05a3c45ee5804592c02f72d1322e8/Bill___Ted-s_Bogus_Journey_5__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1KgTf6bhyYNvpy3nJIszAQ/01b1a379caa30c8b16112a9ed282d492/Bill___Ted-s_Bogus_Journey_5__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6GUdfn37UJ5GR678t7t4m5/b503b7e9b562e11780c25c170e1b77e3/Bill___Ted-s_Bogus_Journey_5__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5cgnha2n61jzKkDcvXPH1P/8c2ce19f45558aa123ad200dc0cb9fdd/Bill___Ted-s_Bogus_Journey_5__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/27ObRvBTAQh48dikL4a9ZM/ec4775824f78443a25632de2e38fd3c6/Bill___Ted-s_Bogus_Journey_5.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/2zT0oVHEbZfYxW6TC5mOAc/15c4017db015b5b78ca77227f5b3f8b2/Bill___Ted-s_Bogus_Journey_5.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1517,16 +1517,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7dCO49BflwzLeHte0Roxk3/50af4db628cb6d5f3c1ab393c6ff1a4f/Bill___Ted-s_Bogus_Journey_6__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/GyyMrAaJtlUCE7OyFuIH4/a6c5849ccf738574913e8e67f2887c3c/Bill___Ted-s_Bogus_Journey_6__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4W9JGW5SbX7IZjK1gV4mOp/7fd2a13b3f85eb293d83859e53322fa4/Bill___Ted-s_Bogus_Journey_6__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2c8hSMXYkKSdwOnpEcphgz/ac6dc022b401a5ee92134e79caca39d7/Bill___Ted-s_Bogus_Journey_6__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4NJiMjtPFhS6BvoNhN2s9v/bdab1a19508a6f16a1d31010c36c078c/Bill___Ted-s_Bogus_Journey_6__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1AI2Lfz7g2lFrElMWgoZek/2f5a84e8d57dde3fdada35130bd1fe92/Bill___Ted-s_Bogus_Journey_6__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/55tNzkccTazXsUzBWvf99Z/88038ad682dd7c92820145764a9c27a4/Bill___Ted-s_Bogus_Journey_6__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3RtG6U3aAAcWIoDQdjj1Ir/00ffc5fdde749063c87da8bc9b1fa71e/Bill___Ted-s_Bogus_Journey_6__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3fYPTOSnKR50OWPrw96mpc/cf90faef8af128b686bb0633baa14a18/Bill___Ted-s_Bogus_Journey_6.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/1OVQYfuMQ7aw5Y1rjwSwxL/5e5a1ee5cfa250ced7919c03baa6e72a/Bill___Ted-s_Bogus_Journey_6.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1544,16 +1544,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7iHBl2FlyAFi7MONOq1pub/20f7aea27ed0335efe3c595a88264f2f/Bill___Ted-s_Bogus_Journey_7__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4toVvpSM8KrgpQhymY8f5E/d0fdeccf1dba7324bca62ba918244e32/Bill___Ted-s_Bogus_Journey_7__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1gcqKJQirkUdB0adNKakOe/6b32d4dde437d74d701dfef797278497/Bill___Ted-s_Bogus_Journey_7__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5qrhQCpaNrSzD5PcRTX4fA/b41eecb97647f8ac495efa3161dbc8b6/Bill___Ted-s_Bogus_Journey_7__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6ojZGu4WrHjesuXLsZMXP6/d84fe0a3d137510d83744e51a89b7146/Bill___Ted-s_Bogus_Journey_7__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2UATp62WSssOaA9Gl8vvWc/bffe22826818b0e6bc4507a0539bf362/Bill___Ted-s_Bogus_Journey_7__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4rKOYt3XSIzYfL3D8Dr8v2/5c00b620e6fc2908e821bbcf2880ce27/Bill___Ted-s_Bogus_Journey_7__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5J80l8v9FvRZzG8WtAOIAQ/127ec5f0689c4fcba5ba74b9eb84414a/Bill___Ted-s_Bogus_Journey_7__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/XFAe9qR9UkXYTNIpV2NLj/0877bddb104494a056cba92b5b547a82/Bill___Ted-s_Bogus_Journey_7.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/5ViiSXumcF2ZSoCvePCKl1/f79cbcd5f89db8dda19c70bf6fdcfb3a/Bill___Ted-s_Bogus_Journey_7.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1575,16 +1575,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7FUBgIEXVhV3P0QWeuUHwU/127299f764b6c35cf3176e9e4940b243/Bill___Ted-s_Bogus_Journey_8__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1qgDLdJnT75YDNw8KSf28w/cacc663705ff0856f19e91e4df93e638/Bill___Ted-s_Bogus_Journey_8__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4nkDUT2jpNZ5pK8MnZSPtq/21f5efdf47240c37b05d9a7ecb108582/Bill___Ted-s_Bogus_Journey_8__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1m0YbnEUgZ2QSNDHs5QLwE/d17579a43611097e54713fd69be45659/Bill___Ted-s_Bogus_Journey_8__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4oA89zGPAV9iz8RpC7rU2T/a915513c3aee3227bc11738fc96a1585/Bill___Ted-s_Bogus_Journey_8__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/59eHtsqUpLjau9pufY7NSZ/67d260a7b49a44733ac59b18bc044ced/Bill___Ted-s_Bogus_Journey_8__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7EdZdTyjBqJFN6SAxtwjYA/67ae1edfa2758136b77bd9916710de44/Bill___Ted-s_Bogus_Journey_8__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5k5fVqVBwmwSeuDvNikj2r/5aefb1b29ca2d2e3a498b914dda17f0d/Bill___Ted-s_Bogus_Journey_8__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/5wNw5dlra2WwgooVGiQrru/5be1c63bf57c1b4c435f9544a971d2e1/Bill___Ted-s_Bogus_Journey_8.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/6PrNvzSKf0gA0AL9YbQtPs/a6a829a3878fd5a97677e623f95ea6c8/Bill___Ted-s_Bogus_Journey_8.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1606,16 +1606,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/35eh0waH1c98ShUrW2vD7k/ec0fa3e6148889d75febd1d6af2742a9/Bill___Ted-s_Bogus_Journey_9__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6mK5Q9hP4ZcsTNjRFAt7YG/4ef3d3975bc7280bf20b4ab43d4f7d52/Bill___Ted-s_Bogus_Journey_9__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/12Sp4q0873fcQDgqrpdYB7/1835db1634b8f3f6414af76796a6dfd1/Bill___Ted-s_Bogus_Journey_9__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2Z194MrELUOhJPKZ7VJIlD/4e5add6d96fcefb14bd91508f74ca2a1/Bill___Ted-s_Bogus_Journey_9__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/44KTsI0mBsgpIrjJnx6dPy/080fb3fbe15d41a9d573be97398f0aa2/Bill___Ted-s_Bogus_Journey_9__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/zuMQR50yur820h0FDmURF/d7e988aece6e85ab6e8d4af88a6b5b93/Bill___Ted-s_Bogus_Journey_9__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2fLBGQh4RfHIk9egK0EmTT/74c1398befc92c31c22c1a0bb11a9535/Bill___Ted-s_Bogus_Journey_9__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2KPwTPdTG84p82NP4Fz16P/b5189523d1cfea8f3f08c95e075118a0/Bill___Ted-s_Bogus_Journey_9__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/5cQF7FyulLhPoICjUp2kEa/c8f5332a8512a96d1a0f15a852120f64/Bill___Ted-s_Bogus_Journey_9.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/17fquBNtDj99gVqgjk0Zya/cacc62fdc352c744f42f6590a6a621a0/Bill___Ted-s_Bogus_Journey_9.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1633,16 +1633,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2YQ7zZ6itNzwQVccvopjv6/4072e7ded1d30c4fa70cac9610274cc6/Bill___Ted-s_Bogus_Journey_10__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/53lV6YFnnyQAYLB7wvqTjB/925184f3bfbbd414df8e11feb3dc2b08/Bill___Ted-s_Bogus_Journey_10__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2te4FvDxpfJuhxUvICNfpw/c0159bb20ebaffb717a49cf4c6eb86c7/Bill___Ted-s_Bogus_Journey_10__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2DuL72LwymhItWjNS4MPSs/a1b591609a5c706d474a7ff38e8bc3c0/Bill___Ted-s_Bogus_Journey_10__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/29ZzpJzIwLqzS4K7saNvFi/696368cbcd1e9f1f5f69f55dfa5be1b2/Bill___Ted-s_Bogus_Journey_10__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2BdBG7kp3qEVr5EPzqLYWS/74fd61dc7e69a52aa40eca7cb1518027/Bill___Ted-s_Bogus_Journey_10__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4y6VtDanDGvQLEo6WIY4EW/2f9eefdc6a4afa1b75feac30bb18eb1b/Bill___Ted-s_Bogus_Journey_10__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5FTbgDShfzwbUcfb8LgRBt/125338febb476e2fbdfaf285cf3b5cf1/Bill___Ted-s_Bogus_Journey_10__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3JVi0NuWPCjOqVUclScSEm/0d668d921f9664d55f68d8b4906ba4b1/Bill___Ted-s_Bogus_Journey_10.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/61XyOBCFDgFvQWDVmP44cA/3a4dfb459978c31efbd3997524bf0efa/Bill___Ted-s_Bogus_Journey_10.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1660,16 +1660,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3PnN3QEaqfTU1h6QPICcqz/7e370cb1b48fe34ea8239fcbaa6d731b/Bill___Ted-s_Bogus_Journey_11__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4ZgBUSMITD65VNL5jeagaw/8e53804aca76a2019bc6db1e458980f8/Bill___Ted-s_Bogus_Journey_11__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2rzIxJWibuHm8EkVUqWibH/d9e638d67a3d4df7b265de2137e12dc0/Bill___Ted-s_Bogus_Journey_11__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4II9sJ10iaVzjy2KVpUs7J/aa29a95f828d070a21a11ba158e3142a/Bill___Ted-s_Bogus_Journey_11__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/0Vx2XpfJO4N1Lg1yK9f1n/30aaa97c2b6194ea03d0df73a14337e3/Bill___Ted-s_Bogus_Journey_11__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2EfsmWIxaUes1F2nWVcSGe/b99313ae935efe27d9c0d339e676a57a/Bill___Ted-s_Bogus_Journey_11__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/qsMYbFJFMOQHnDz6AuwjA/8c3ffd38f255d847aecbc64e778411ea/Bill___Ted-s_Bogus_Journey_11__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3wj2PoRmK549llnjEBAtRO/e0d75eb19ed692e7699c13a2c5731525/Bill___Ted-s_Bogus_Journey_11__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/49SQ4GXjhZyChNR4jQJEUF/07ba4562ed6ef438750fe689e80d463d/Bill___Ted-s_Bogus_Journey_11.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/28hZeD9uS8OuaFEJaUhcKY/e35e6c82ee95dde009a2911139e5460a/Bill___Ted-s_Bogus_Journey_11.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1687,16 +1687,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7Ayzt7GraHlJyf0CKmOX26/cd0e6922a8890c3f43f49197d337015d/Bill___Ted-s_Bogus_Journey_12__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6LSnLqgyvuugKDDGWWi135/3c3c006c46674c8fa3470a41266f749f/Bill___Ted-s_Bogus_Journey_12__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2O0P4gamwhzjK24WZq2rTQ/00f87c8fbabb18d6e1f367a90dd47bbb/Bill___Ted-s_Bogus_Journey_12__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2usrg78aOHzxgObd2AmEwi/565dc154fbca672b2bdc50da7e3bfe2e/Bill___Ted-s_Bogus_Journey_12__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3q3klBlHptBAQHeSNhVocy/9647d9140597b9dd6033a321197a7af1/Bill___Ted-s_Bogus_Journey_12__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7L0lhG4SYcknkIFp1gWDEo/abfe5e551b2a0ac629a6d3e64bb51888/Bill___Ted-s_Bogus_Journey_12__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1qeEVcKrtLQT74jqgY37eS/e605ef4617f724af750cb11e105d6924/Bill___Ted-s_Bogus_Journey_12__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/crUP99csDc9paIvIlE2SK/f828a79a40a03eab235ac7aade720fe7/Bill___Ted-s_Bogus_Journey_12__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/1qtUGOgthgHzAMEWUCSVlZ/5b248a8d75a3fcb3028ddc075c02d512/Bill___Ted-s_Bogus_Journey_12.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/70VHlGJszMeIUNiFacuYqL/c77afae16db783c669559bd66738e81c/Bill___Ted-s_Bogus_Journey_12.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1714,16 +1714,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3Xkl4ck5S9Pm0a8V1ZLU3j/5c70c4b548b3a6cfbea894bd5bb543fb/Bill___Ted-s_Bogus_Journey_13__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/OVialD8KGUIfCCafilibk/30603cf3dbf1387da601969355d37487/Bill___Ted-s_Bogus_Journey_13__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3bLfbLbEckMyYZTo6KlDIn/22a7ef68d508aa151c9740ab2aca25be/Bill___Ted-s_Bogus_Journey_13__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/77PTUMQQvgOjrLbwy2TwFl/02d367581dacfec7a1a4f77a4869e1fa/Bill___Ted-s_Bogus_Journey_13__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/67RNUGEOBVJS3hQpxTsBLg/2c5a6c638d812a407b7cae1ab262f0c4/Bill___Ted-s_Bogus_Journey_13__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5oA8Ww23b3p1EgCT2wsjIu/af5fb47aff60e72611355dc927fc03e9/Bill___Ted-s_Bogus_Journey_13__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1IPJ1enCeAMFZuYQ2HGyKK/95924ac5bb7d1f97bf679fdce3f3b581/Bill___Ted-s_Bogus_Journey_13__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/njgGy7kSURd7aUG7yvb44/ca58b1ab0219ca29f3e7a3d1bbe73289/Bill___Ted-s_Bogus_Journey_13__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/4iZ2yhRiGcxsOebEjY9NlJ/e51dfe3554f123458654609dd20a53b6/Bill___Ted-s_Bogus_Journey_13.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/5q9KI6habcyk5IWjZco7w8/96643cd27a6352e09735fad06ab5f20a/Bill___Ted-s_Bogus_Journey_13.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1741,16 +1741,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/13LGeZLnJtthImnlWpSUN8/81b1739e5bf2b9f5db1278af677e1a04/Bill___Ted-s_Bogus_Journey_14__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/NQPQzCFFXYEgYvBuTeuEF/7251eadfa5a50c85f7186e3b7b77b07e/Bill___Ted-s_Bogus_Journey_14__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1hmzi6iMzhzwBmLwH4nCLV/bc9878ad1346f123923e7f91cbe1f515/Bill___Ted-s_Bogus_Journey_14__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/loinXi29Z60JzFUgS6Fxz/b7749a0be7f45ada71240356b1564e89/Bill___Ted-s_Bogus_Journey_14__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2DVfw9CeswpVSWMyrIDxF3/62ba54b74b40712af87edf8c4727e65e/Bill___Ted-s_Bogus_Journey_14__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/z2zqw1odOcxmP0h53CUs9/e66afdb9db93dd87958a75a7c2c4f3d5/Bill___Ted-s_Bogus_Journey_14__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/14lPX1yuU7WrHtaHHkuewA/ac6eedd9fef58fae18166923280537be/Bill___Ted-s_Bogus_Journey_14__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5IljOvTX3E67VUk3tYcXyS/2ed08e5b70be81c33f688b9b0a50d04e/Bill___Ted-s_Bogus_Journey_14__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/6H8fJ2vz7I5SN8EmnUkQZt/6e713b818da5978d02fcecde4ec8e306/Bill___Ted-s_Bogus_Journey_14.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/7zWj3ohnfeJckAfzb9yMBc/2e676b53f4f6287b391efe97951485fe/Bill___Ted-s_Bogus_Journey_14.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1768,16 +1768,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3K7oKVNIIBpFsGbVc1NTv1/4566afbcaed5c4d27b7899aa740a2142/Bill___Ted-s_Bogus_Journey_15__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5jxKljMh0TKTB9gCsOYKGn/dfa3e9453e91b684d9e9b110dd913fcf/Bill___Ted-s_Bogus_Journey_15__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5H9Nc75HeS0wQxt6KW4n8o/3af80c3ae3d1ad97722c86c638cb304c/Bill___Ted-s_Bogus_Journey_15__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/NwHP5k9cPX7Ipzz6dEvNf/5dfd214373cffe4187df395b28b6cb5e/Bill___Ted-s_Bogus_Journey_15__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2pkFZqYUCvxaGOzovEPFBC/3201effa831755c58e7e42b4da8bb341/Bill___Ted-s_Bogus_Journey_15__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2AEEWvmG58StSNj8BMgNZQ/d82fa33ac24045a8711bf2451774b34f/Bill___Ted-s_Bogus_Journey_15__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/73HgPBQ92fObuiNM7dECuE/62c31e695e170bbd17dbc089831145cd/Bill___Ted-s_Bogus_Journey_15__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4DNhvofOYcXBi1v1YWoLEK/08e1c42d5679278c8b93353b88fdde5a/Bill___Ted-s_Bogus_Journey_15__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/K7P4NTzLLVWZ9tjWiAzr7/df12bb006480bb86e4e8b5f173f81469/Bill___Ted-s_Bogus_Journey_15.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/48casBIPGxSOB1Qt3PX0kc/643a8ebf08a63b02c840f29a009282ca/Bill___Ted-s_Bogus_Journey_15.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1795,16 +1795,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5cChn7KvUVDHHlVbl8KMao/f8651ddb7d706afbe1a3ac1311a0e868/Bill___Ted-s_Bogus_Journey_16__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/54fez20paWPFr07W3hrhGq/1b356f261729b0507a1f37835bcdc10d/Bill___Ted-s_Bogus_Journey_16__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3Dnn9TiaQgm7sRJ687ASro/14ab59707fa475a10b7ce33d5cec2768/Bill___Ted-s_Bogus_Journey_16__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1Vueng0ax7maRAfpHXpzjk/02614ea944d89ca8e71ba80a55300dd2/Bill___Ted-s_Bogus_Journey_16__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/64mOC3oALd5LvxaaCjHJGg/e6ae03f72ce09d28727211fb59322197/Bill___Ted-s_Bogus_Journey_16__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1BlQyEkHETTqIar4FOAsyb/bb1af2db0680836acd0cca5db30c6538/Bill___Ted-s_Bogus_Journey_16__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3uBLxVwzSonPgKI7fwp36t/5e65fae5a94ac40f9e8ca4f90015e2c6/Bill___Ted-s_Bogus_Journey_16__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/cMnId7d4Oupp4mXjeeIc8/ada77e4047fd8abcd366b16ae7cdc7e3/Bill___Ted-s_Bogus_Journey_16__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/1aLk3arCi8F4DH6JzY3oBY/73bca1ecaa69274645b2c8968a55f975/Bill___Ted-s_Bogus_Journey_16.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/6pJBj1YvysCR0R6TwFC6S2/02aed04ba66d56c4d65e7abdc8b8f4d6/Bill___Ted-s_Bogus_Journey_16.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1822,16 +1822,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3uwTu7o7c6ugpjibJfH9Ue/20ba0d4a982b2c1bb9b6517924a8a656/Bill___Ted-s_Bogus_Journey_17__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4ocs79u6E2RGfPjnPcx7m/bb0f7438bc9b8bd08e89ab056dfd0a0e/Bill___Ted-s_Bogus_Journey_17__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/QDqSs91jyVLe4ZrK2YtE8/a5629854fe1de44fcdcb7c814a9eda21/Bill___Ted-s_Bogus_Journey_17__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6UFb8xIKRdqTWUCOfiZfiJ/5769f9e77b3b378321f4fb250bbae472/Bill___Ted-s_Bogus_Journey_17__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/D5GGgtloEFcxz4EA83EMU/84e9c5aef4bf5d1b70ab3d282d634866/Bill___Ted-s_Bogus_Journey_17__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/52OtS8ijEEgbtoUWbk2yUQ/311d0fda013aa1df60ba73b1efa7311c/Bill___Ted-s_Bogus_Journey_17__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1Vc18SZVIeYHpU0KnQA6qi/b5813b0e1b7a68609541fab1b17a37bd/Bill___Ted-s_Bogus_Journey_17__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4bbdvoUyD9gBq5ULY24m40/eb3cff8f9115df7950a6ffea74e92dad/Bill___Ted-s_Bogus_Journey_17__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/4GpBMbPuq90rTUFVttAz8w/fd90618df91eac1cf812b25cdff45c73/Bill___Ted-s_Bogus_Journey_17.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/2YiTdSpyA1bGkzNQJvRuLo/7cf53f1c9040ff831061f5d918d31019/Bill___Ted-s_Bogus_Journey_17.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1849,16 +1849,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/m8z1Y1ovYR2hL1Imny6zN/86ab30123cd6265e87724429822bc8bc/Bill___Ted-s_Bogus_Journey_18__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4XhvI0U1NDgJlSijTQIDyD/8c61fefd6c1cd18b7b4a0f45174489b4/Bill___Ted-s_Bogus_Journey_18__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1INqrMRK2nWFbnwIGXtdbL/b6d122b9db6799f91b7cd38e95f87fbe/Bill___Ted-s_Bogus_Journey_18__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4KpApaqhY94ubGweHOYSFv/9f7332167f2e4f42237742f7b869529f/Bill___Ted-s_Bogus_Journey_18__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2f8LNHeFzqmsNqg5GmfaEC/c48f0686b972e2977aab4e05d9d377e0/Bill___Ted-s_Bogus_Journey_18__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1n6Anmm1Tjai1a0d3bon4H/a3e2b06768fc0a28ec01a291740e9089/Bill___Ted-s_Bogus_Journey_18__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5OKNXtr3q7IuVJevbIDGkK/56520134a1604521b3cc4e60d6014a7f/Bill___Ted-s_Bogus_Journey_18__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6W6pK5v1tZ1dmR86NHFUnQ/c8ce06ccfde1eddda7a3f66b7c74b54f/Bill___Ted-s_Bogus_Journey_18__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/16gXrX3i3BZqhdtl0AfbZt/ccf9ab31d14dafca341b781f2bac3143/Bill___Ted-s_Bogus_Journey_18.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/6tapSoWnCTv5UtFXglDaWF/6b6032958dc5f9d998efca5feaa9184e/Bill___Ted-s_Bogus_Journey_18.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1876,16 +1876,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/54TMNkNEZWJXN9PzEKmiJZ/113b57b2bfb779446885cb7c5f680a38/Bill___Ted-s_Bogus_Journey_19__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6R5GOCmdhNKDjfwu0RAJqA/0c64d69c14b84aa26595be4caadec319/Bill___Ted-s_Bogus_Journey_19__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/c83ZWoQHNjrhzAq0YTqYq/808984c7c0dfe7b11bea5a2d9bf8a207/Bill___Ted-s_Bogus_Journey_19__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3qlPsfNpCvm1QNNoOin9zX/c6b55dfeb41f3ec22e8ec1e1f05bdccb/Bill___Ted-s_Bogus_Journey_19__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7Ui80fmBxQ1nP4VrgCeLQ/99cc7b584894d504b615428a8a9ba260/Bill___Ted-s_Bogus_Journey_19__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4Ss4EgV5FPofoLU9LgI886/b978ce8b0779391e6631a8307d7295a1/Bill___Ted-s_Bogus_Journey_19__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2Gw1NZb2GlY5IgZAkur9gL/1754c5f2be430ccb26371831144f1240/Bill___Ted-s_Bogus_Journey_19__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/ugbhI68hh7PE9RWjQ9Ucs/7b3f98552d729e42a685a393ff05a29c/Bill___Ted-s_Bogus_Journey_19__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3OXzXqp6TzYshUS6rXDyzY/b8942ab6fc4b6277e01057fa50c4ea5c/Bill___Ted-s_Bogus_Journey_19.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/62vYQJQHV1bcZT8HOTkMH/0ec0cac5c4eee397f2205a8a9dcbf563/Bill___Ted-s_Bogus_Journey_19.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1903,16 +1903,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/iTbvJU4X9o525wxlIGcWC/3b90be8b75400862c61dccad554e2326/Bill___Ted-s_Bogus_Journey_20__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4LscC5cFWin6MM7ck6PfCK/06a174ae32e01bc7e057f554b5d0f179/Bill___Ted-s_Bogus_Journey_20__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/W6AYkzSzdqCvCrA71l408/290d71178189f5e77adeeb9bb44ffcdd/Bill___Ted-s_Bogus_Journey_20__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4Or0pXsVbmJZN2bP21iaSK/6fc9b06fbc5dedd6c19791b2e98def64/Bill___Ted-s_Bogus_Journey_20__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5bkNQ6eW8xxtqPZDE7hgys/423a8627ab401a24bd016d7c7b41d6f4/Bill___Ted-s_Bogus_Journey_20__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6riHAoSzwN9Xc3LTOjgxqf/be82c85d46ca1f039b15ef7e22b38488/Bill___Ted-s_Bogus_Journey_20__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2yLZXMfDJXWPXCwA4xYDwF/3102641b4d26ab4e3ec00ebad43e74dd/Bill___Ted-s_Bogus_Journey_20__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2jpohcjEJlyeCuXt5D04W6/cc39700f2f61494115dd71aba7f9c7a1/Bill___Ted-s_Bogus_Journey_20__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/4tbuuJPgJvO37cx2L1WoX6/a8061625e0159567181688ac39f5e8d9/Bill___Ted-s_Bogus_Journey_20.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/24hp0dSprcYY3C9i7h00a6/f1768e2c73100a129142ffda71816ecf/Bill___Ted-s_Bogus_Journey_20.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1930,16 +1930,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7qYYafnbseMsTRnSvujwDY/3efd42e89314c1e5e01be0b6d33cc109/Bill___Ted-s_Bogus_Journey_21__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7LWvHbwIzl3WakIg68wOJR/28399f3a2642128ba1673c47dc025bed/Bill___Ted-s_Bogus_Journey_21__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3Ux69vuKlYoiAvgHJYnF9s/28fbfab0771866f0e2fabe0200379c22/Bill___Ted-s_Bogus_Journey_21__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3mH7HENlSCPnfXGpdbfeEL/46c0f2b6f37a633605d8cf5f8219d76c/Bill___Ted-s_Bogus_Journey_21__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5sWBPg38Uev9n9RGG5eNkA/cbc322cc3d23c680aa5d6467bb7fb20e/Bill___Ted-s_Bogus_Journey_21__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6fZozOmQt4IkwpXlnWoFX/b064293630a848199336ca58595e4cbf/Bill___Ted-s_Bogus_Journey_21__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/zOZ6phI6ZXIlvwtaubVQL/3f62abdab9d7a997954a514193f0ffbc/Bill___Ted-s_Bogus_Journey_21__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4Mga6hUvpG8hYXuQxCaMLD/3c1073b3553cab70093879df07f65943/Bill___Ted-s_Bogus_Journey_21__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/16NnZGgavHFs4HbG1FzS9Q/0b8b0effd46788f6f0583ed4d60963df/Bill___Ted-s_Bogus_Journey_21.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/4VnZzZoTBTzlb6WdIfNVM6/6b8427c63069d0c6c622c8f0b9e41778/Bill___Ted-s_Bogus_Journey_21.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1957,16 +1957,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3PL6Gy3yu6yUB5M2hfCB0o/d468e92d0a0c90c3c07aacbd85b00096/Bill___Ted-s_Bogus_Journey_22__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3f6Yu04LayW5ZJqru7RpZl/530b34510fd66452b4f7645bd7acf345/Bill___Ted-s_Bogus_Journey_22__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/194NF17ssfhElM4iKByZPg/0d424dc3be169675805c411ff255cc32/Bill___Ted-s_Bogus_Journey_22__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3eXq39Rkp52JU9MQde1nl9/65a5b34dedd0aa9ad13b5c1e5d747488/Bill___Ted-s_Bogus_Journey_22__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4IFd3WN2HkOmYUzACAv0Bu/8bac607fd347dfb8f149bcb7967cc861/Bill___Ted-s_Bogus_Journey_22__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/463JCXnHohyTtPaoNQLdCO/6da4a36254866b78faceca4f40017362/Bill___Ted-s_Bogus_Journey_22__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4Z650ZRD9L0PP2W8YcpYQx/47ef3bf15d9e5814cab21646155d80a5/Bill___Ted-s_Bogus_Journey_22__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/H1Ie3YDAxndgIgZii18d0/719f7d0080a2d49e15f88e04635ffb1b/Bill___Ted-s_Bogus_Journey_22__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/79MCq3OddsUmoWI8JjxGr8/c2e84f97bbe8cd39311afb35fa45d7dd/Bill___Ted-s_Bogus_Journey_22.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/6xvXFOR51Wvfx3olC2n7i3/77b3c91a175956994cc993639e92381d/Bill___Ted-s_Bogus_Journey_22.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -1984,16 +1984,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/LgR7CL22gco00O2Vi2t4x/6c614c7df51973b7d02888b542205f34/Bill___Ted-s_Bogus_Journey_23__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2UZdo7f4bxPIHrZT27gGJV/1e45fc8caa7b7d99ea6818f965021af3/Bill___Ted-s_Bogus_Journey_23__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7smqs5tFRI6uVUGKY5whVQ/088162b76b5c0a0e057ab57bbeb17189/Bill___Ted-s_Bogus_Journey_23__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/6kvRZwsvdE8g0x9cD3SyAL/4a12d3ef050c50fe2a12c992f8fc2db9/Bill___Ted-s_Bogus_Journey_23__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1lHeQjYaffgRoOtNsn9hKX/4f63a6c3479a931415bc308b93af34eb/Bill___Ted-s_Bogus_Journey_23__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7v9aUGZeZbgb1hxUhSQk8B/aba5f70d9f89eb51e06e1fb6b6e0109d/Bill___Ted-s_Bogus_Journey_23__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7JPxwdNx9zwskIomy4XEqW/a4a5d6a8b81f982ee3777840a653b0c1/Bill___Ted-s_Bogus_Journey_23__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1mVtWUN6EehHlyXpQemBwy/b63b7c89fa74ebeeaaceda5cb2684b9d/Bill___Ted-s_Bogus_Journey_23__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/W6UGM2dBmErGFjkwTc1nu/16000a32687d5f0e0d52f5c644c8c902/Bill___Ted-s_Bogus_Journey_23.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/1PD8lShMw6CgC4lOQUfQrz/8ac8e78109249a27f4a15bf0d695b8f0/Bill___Ted-s_Bogus_Journey_23.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -2011,16 +2011,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6Mhk7IJ7y4pxRpRER1Dlpj/9d2efc3c4aafdbbef975ea8d62a42b92/Bill___Ted-s_Bogus_Journey_24__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5NJzWB13KYLrqAoEcly7QP/fc8b1007509ac2e643387f75844e2ca3/Bill___Ted-s_Bogus_Journey_24__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2tddu2kzBhsRwCMy399TMg/34df3470e4a0490ab05557a174a94299/Bill___Ted-s_Bogus_Journey_24__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3SR6kXPuCV24eKYkIlssoR/b18038c3aae000c1c1ad92595fff1e68/Bill___Ted-s_Bogus_Journey_24__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4QaeU05K2ktfTK7UDih7QG/a513db3a62c1e6e75ec1cb6108a8c505/Bill___Ted-s_Bogus_Journey_24__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/14yGTyUgSUjEk4n3994wB2/4e54b5349cbd26d2bb30b461d49ac6fa/Bill___Ted-s_Bogus_Journey_24__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4BZwxS9X6V3bl23JldbAYY/e6926143f38a35b199542f3730c2feec/Bill___Ted-s_Bogus_Journey_24__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3wu6lFXzzddAoR62K97xXx/26e59d9d9f55531036aed8c3fd723537/Bill___Ted-s_Bogus_Journey_24__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/zntgVcfGaRXLCNoHJ9KUg/e7d2d9acfa021cf3898d3aecb68ebe02/Bill___Ted-s_Bogus_Journey_24.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/4XSv4YbnNiMJOrWjqoDBtX/b4462a9b65806d7cab1db3c50690ffb6/Bill___Ted-s_Bogus_Journey_24.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -2038,16 +2038,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/4NRTJEdcbtVFxA7pjquICh/04cf9fb55862b1f243ec49e06c209518/Bill___Ted-s_Bogus_Journey_25__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/51TGAZ5uw9uyQEij3u7RAo/ad806ec5e559e99812cf5dc9d4e4d65c/Bill___Ted-s_Bogus_Journey_25__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6E0o2RakCFjhHJWEYqS5Lh/c9a2ecc09a1bde21893c1bc4323b4328/Bill___Ted-s_Bogus_Journey_25__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1YPAwcbuwGaFMADF9HXGO2/c593dbce6603a14421f4ac8a31ea1f5e/Bill___Ted-s_Bogus_Journey_25__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/140eI8htUDR61U1sAo24oN/fa2567b69970e12118de89c5c6b05d91/Bill___Ted-s_Bogus_Journey_25__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/16inIqZEcFreD5ocEfDaZg/9cfd297270e55a87b92bffa579819eb3/Bill___Ted-s_Bogus_Journey_25__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5LlTd5ZEF8AeSFekc0V6yE/f60d99b1b199ddf8f41a02e50561402f/Bill___Ted-s_Bogus_Journey_25__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/2S8kT96E6FUbfCpUz8qLBu/99cae0d6f081d6952b5f0bc84d74a1f5/Bill___Ted-s_Bogus_Journey_25__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/1ducQHR4xXvEP01U8W9Bnu/3f7c6b8026e1fea02e90ec98b77f89ef/Bill___Ted-s_Bogus_Journey_25.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/4Y34UdLDeO3vX2nf95HgUx/17c82060f19c6d52077db3754e53f891/Bill___Ted-s_Bogus_Journey_25.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -2065,16 +2065,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/7MgqC7ROo437wALftdNvZK/55023a3f6fe8807224aa5c1cc74277c6/Bill___Ted-s_Bogus_Journey_26__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/55qbw8M7VBE4GXID4gtReR/bcba3558ac5a2c08be4b533d2dee12d3/Bill___Ted-s_Bogus_Journey_26__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6PuspZ2Mn4gEcgOtfZT5CQ/117b7ae400ef702b34c901638b272656/Bill___Ted-s_Bogus_Journey_26__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7yNeDlq826RcPJsrXgyjPq/89b1bf1748f3a2b09145fbc3aa87ba3f/Bill___Ted-s_Bogus_Journey_26__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5MTAKCBxspDGesdQ05qCHv/162247c29feb56f472b92bb0cc8e1ff9/Bill___Ted-s_Bogus_Journey_26__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/3MoGRKAorVjt84dFL04ue6/9f595710102fa3a007f2debf0ef70e37/Bill___Ted-s_Bogus_Journey_26__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/3jf82rSNeTiBK1zltn1bF9/4bead87f2062fd44d0628e803adabb55/Bill___Ted-s_Bogus_Journey_26__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/4t2ggyZwOUhotyN3YY9OSe/348244e3cb443aceadf63d5dc4386ab3/Bill___Ted-s_Bogus_Journey_26__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/3sJrPe8U6odEDWZr1UBbTQ/4d092c90c0eb1fe5df014fc0a251b70d/Bill___Ted-s_Bogus_Journey_26.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/7qh2WXjOZXrzoai4d6mgZx/b436968bff9cd3d912717030c7e41769/Bill___Ted-s_Bogus_Journey_26.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -2092,16 +2092,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/6DDaSolagrpe0YpHsVOMof/a3c66158db181e2dedd5c0a15f1f90c2/Bill___Ted-s_Bogus_Journey_27__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/vnVmLlERBfI6mJMnwrwSd/71da8411e503e7c80d2b53efe55acf17/Bill___Ted-s_Bogus_Journey_27__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/39rOdV2JajxD6SjIoBtHml/f6b5c1be4dad6456664f4c6dded16480/Bill___Ted-s_Bogus_Journey_27__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/ersHZGzRELnvZ0Z2pD9am/89ebc54d892cf1ff402a4dc629ff7186/Bill___Ted-s_Bogus_Journey_27__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/53rI5LFo4IZLJ0dChi1b2L/82660790517ee874bf224fce9023d74f/Bill___Ted-s_Bogus_Journey_27__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/1dqAauIhH4Jzg9RXhVtfVs/a694d512d6289ac75bc563ff867ff442/Bill___Ted-s_Bogus_Journey_27__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2ik8GJMangpVchuAPNXtiD/df984fc0690cb81e1551f061c0527c7d/Bill___Ted-s_Bogus_Journey_27__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/hKvLqW4a4JsNK5q6px6wk/56f07a25692ddacd1144900c70f47773/Bill___Ted-s_Bogus_Journey_27__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/2HjxAL6iSjQVmuxu5b3AYg/906bcd862a65a6b78368a411941dd5a4/Bill___Ted-s_Bogus_Journey_27.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/6tijCyhRv6CiH9K3lAROCD/588d5a0033ae0525b13ef5a92ace3331/Bill___Ted-s_Bogus_Journey_27.mp3",
   },
   {
     movie: "Bill & Ted's Bogus Journey",
@@ -2119,16 +2119,16 @@ export const whoaArr = [
       "https://images.ctfassets.net/a6ek464hq2lg/cJP2uvQABzZsgWj770K9y/0a2dba19352272363051b34b17fe2ebd/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
     video: {
       "1080p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/5ukLm1OEo0O7BLC8POcD3U/d1da73843e5698d39a6134164e1fbd2d/Bill___Ted-s_Bogus_Journey_28__1080p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/5S7NGjFzPZslLpQ260xCL7/711cc0d2f4e5527d0838d7146c5d5e23/Bill___Ted-s_Bogus_Journey_28__1080p_.mp4",
       "720p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/1AQxTx7kalJUXYtDOTyvcm/8aa7d755d8e46a3e5880ad304c5cd4b7/Bill___Ted-s_Bogus_Journey_28__720p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/49mW3Ul1YyTnvAcq5YfR3n/cf078a2dc2b098669e0e35f279a94f3e/Bill___Ted-s_Bogus_Journey_28__720p_.mp4",
       "480p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/39PzDxgOszRtcuoK6e1kQK/3bf0b2a7d3cd740399cbf655f91be4ed/Bill___Ted-s_Bogus_Journey_28__480p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/62kR2FpPEfrpP0CAdiauFs/39f94ce5af67aa9d29acf6930e89ef59/Bill___Ted-s_Bogus_Journey_28__480p_.mp4",
       "360p":
-        "https://videos.ctfassets.net/a6ek464hq2lg/2h9oSfj7IzADb6dr6jp0gq/fd3305909a6d1eedccf90800afbcb019/Bill___Ted-s_Bogus_Journey_28__360p_.mp4",
+        "https://videos.ctfassets.net/a6ek464hq2lg/7KgFIfSuNnG9dkLsTJeJDP/0dba38eb581069b0a3e599577dfe85df/Bill___Ted-s_Bogus_Journey_28__360p_.mp4",
     },
     audio:
-      "https://assets.ctfassets.net/a6ek464hq2lg/7E33Lge8v5ENw1LCzA8AhV/5da391553ee69010ea8b1cf108fec5a1/Bill___Ted-s_Bogus_Journey_28.mp3",
+      "https://assets.ctfassets.net/a6ek464hq2lg/34xhQtCTDamKcrIv7IDdCF/a6e0490c27567807d800351fba1211a4/Bill___Ted-s_Bogus_Journey_28.mp3",
   },
   {
     movie: "The Matrix",
