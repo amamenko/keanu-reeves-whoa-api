@@ -221,19 +221,19 @@ components:
           properties:
             1080p:
               type: string
-              example: https://videos.ctfassets.net/a6ek464hq2lg/3iSexjNad3wSOsyHUX9U5/afdc1989b4b0776410b2284de9af236a/Sweet_November_1__1080p_.mp4
+              example: https://videos.ctfassets.net/a6ek464hq2lg/4Gl4UG120IjIEi32z7CWbW/23e0829ad9c16d526051ecbabb0eab72/Sweet_November_1__1080p_.mp4
             720p:
               type: string
-              example: https://videos.ctfassets.net/a6ek464hq2lg/2RkKHIog16kmAPnSqS0lsw/caa75ae17f4aa0ec00b08ca0b14f2981/Sweet_November_1__720p_.mp4
+              example: https://videos.ctfassets.net/a6ek464hq2lg/2cX0w9zPvKmq9KQytuAVt6/1960d920dbf8b75f5c3b52006b68c628/Sweet_November_1__720p_.mp4
             480p:
               type: string
-              example: https://videos.ctfassets.net/a6ek464hq2lg/6RDSDCfIno9jD8tuLBpman/92a6a18089db0e1efb6fd5acb21619d4/Sweet_November_1__480p_.mp4
+              example: https://videos.ctfassets.net/a6ek464hq2lg/6lU397LKCYBq43NFpt1sNj/881995e5fc8ec12632c0c69534209af0/Sweet_November_1__480p_.mp4
             360p:
               type: string
-              example: https://videos.ctfassets.net/a6ek464hq2lg/21VLnPt13PGtRwrMwRRD7V/fab71b5a4892fea5a9ee08a443a11650/Sweet_November_1__360p_.mp4
+              example: https://videos.ctfassets.net/a6ek464hq2lg/6Y23sz6ZVSSjvdNGI9xztB/234b0278fac7982d2a874b5974b978c2/Sweet_November_1__360p_.mp4
         audio:
           type: string
-          example: https://assets.ctfassets.net/a6ek464hq2lg/3IMYdSMH4jOXjnD4ydYRkF/044e7230f1cc2fd43b51f997f1b9f23e/Sweet_November_1.mp3
+          example: https://assets.ctfassets.net/a6ek464hq2lg/4qwDHfqoHUoSPWHabbutPr/8ba9a9711fa73cd80d1ad4f2a13c7341/Sweet_November_1.mp3
     Whoas:
       type: array
       items:

@@ -80,12 +80,12 @@ Retrieve a specific number of random "whoa" results - [https://whoa.onrender.com
     "whoa_grouping": null,
     "poster": "https://images.ctfassets.net/a6ek464hq2lg/7uQk4GkGE6pklfiuTZ7KSt/843731f596de16ae363cdfaf636952d0/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
     "video": {
-      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/3soeiuupM2Sq7VdwJH8EVx/b3baa2f289634471dbfebb96477891a5/Bill___Ted_Face_the_Music_5__1080p_.mp4",
-      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/1eGcF9dpZZkT9akeYwTbtF/52eeefe9ba6b360bfdaeb2f794a21ab0/Bill___Ted_Face_the_Music_5__720p_.mp4",
-      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/6rZCMczwJkXInNl7N7mL7n/365da27af3ab37dd85f199b290df566e/Bill___Ted_Face_the_Music_5__480p_.mp4",
-      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/3P9QHmgf6H3JlPYTGTzeWK/d71cef8bdc014b759b21b7345322b715/Bill___Ted_Face_the_Music_5__360p_.mp4"
+      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/5fBSExQbxgYnbVpcVFVaQy/170cc05cfc1176fc3dd173362da2b250/Bill___Ted_Face_the_Music_5__1080p_.mp4",
+      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/5RnOwT7nKzqSopAaKlirbO/4e8d9a745c28b59b204ba7cd91bacca9/Bill___Ted_Face_the_Music_5__720p_.mp4",
+      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/RAcSmnzGt0UGGjsdHnMuY/5f945c8b3ce7bee352c77ee9c640d77d/Bill___Ted_Face_the_Music_5__480p_.mp4",
+      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/6AYk7KBCUf85bL5K06ZClX/597212884fd6624ede4a582a747add54/Bill___Ted_Face_the_Music_5__360p_.mp4"
     },
-    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/6qr3Szn4YTOEKDA6z1s3Gf/b8e9f988e6d019afbdb06c538a43c9a0/Bill___Ted_Face_the_Music_5.mp3"
+    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/6nsofsskPC8eCP9vDhfB6h/4b728ac8cd818082b195b47db7fc2f9e/Bill___Ted_Face_the_Music_5.mp3"
   },
   {
     "movie": "Bill & Ted's Excellent Adventure",
@@ -101,12 +101,12 @@ Retrieve a specific number of random "whoa" results - [https://whoa.onrender.com
     "whoa_grouping": null,
     "poster": "https://images.ctfassets.net/a6ek464hq2lg/7gUOeuWUZfWY7VBoqNPW3A/49771a6b578e7e53409f2258f736d9d9/tV25lGWGWGEqUe3U0xjQTBgilSx.jpeg",
     "video": {
-      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/2o7YGgruu4rxpsjfSujafW/141c186a160462de1a8463939589d25c/Bill___Ted-s_Excellent_Adventure_2__1080p_.mp4",
-      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/60LRrCfWp3ZDC6u805xMb7/5e17b087d8ad981ac1c39312c4aee060/Bill___Ted-s_Excellent_Adventure_2__720p_.mp4",
-      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/3qCWJjDV1r0kWhKmco3Tzr/0082cc6344d06998bdce807ccd117cfa/Bill___Ted-s_Excellent_Adventure_2__480p_.mp4",
-      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/73281tLGyAcL8fY14WaFND/d9d10fdf889542590cbfca42dcb12f4b/Bill___Ted-s_Excellent_Adventure_2__360p_.mp4"
+      "1080p": "https://videos.ctfassets.net/a6ek464hq2lg/4mamQcYRVEnJE4MrLefLJn/93a2a72ee98ffea0c8315ddce0f184c2/Bill___Ted-s_Excellent_Adventure_2__1080p_.mp4",
+      "720p": "https://videos.ctfassets.net/a6ek464hq2lg/sXDVpQsgppNFhLIF23Eq4/069443d49fe9258d2bca13bcf8b841b5/Bill___Ted-s_Excellent_Adventure_2__720p_.mp4",
+      "480p": "https://videos.ctfassets.net/a6ek464hq2lg/3B4337fbPBcV2LQT9mFAiK/5eab91f2051ee5048a759b08deebd951/Bill___Ted-s_Excellent_Adventure_2__480p_.mp4",
+      "360p": "https://videos.ctfassets.net/a6ek464hq2lg/9mvRkjlcVwCjO3YnjxaH7/787f1ed3957490e8d756aa03129a148e/Bill___Ted-s_Excellent_Adventure_2__360p_.mp4"
     },
-    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/5bLoElgd2xd8k3ClUb88W3/93aa87b40a67ffa1be754db0517eeab9/Bill___Ted-s_Excellent_Adventure_2.mp3"
+    "audio": "https://assets.ctfassets.net/a6ek464hq2lg/348YrzweMDNTu31S66KUvV/60cbdf53791f0bf2083df799c0cda96b/Bill___Ted-s_Excellent_Adventure_2.mp3"
   }
 ]
 ```
